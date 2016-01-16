@@ -8,4 +8,20 @@
 ## 2016-01-10
 * 2.07 mile run. Logged to [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/717331933)
 
+## 2016-01-11
+* nothing - big work project
 
+## 2016-01-12
+* nothing - big work project
+
+## 2016-01-13
+* nothing - big work project
+
+## 2016-01-14
+* nothing - big work project
+
+## 2016-01-15
+* nothing - big work project
+
+## 2016-01-16
+* nothing - big work project
