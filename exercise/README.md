@@ -1,5 +1,10 @@
 # Year of Exercise
 
+## 2016-01-25
+* **Samuel** - 4 minutes. 3 sets of 10 pushups, 10 air squats.
+  * Squats felt more muscular than cardio
+* Jogging. 1.77 miles/23 minutes. Tracked via [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/724477938) & [Strava](https://www.strava.com/activities/478372213)
+
 ## 2016-01-16
 * nothing - big work project
 
