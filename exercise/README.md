@@ -2,6 +2,21 @@
 
 ## January
 
+### 1/31
+**T25 - [Total Body Circuit](https://runkeeper.com/user/ritcheyer/activity/727716580)** 
+
+### 1/30
+**T25 - [Speed 1.0](https://runkeeper.com/user/ritcheyer/activity/726913566)**
+
+### 1/29
+**T25 - [Alpha Cardio](https://runkeeper.com/user/ritcheyer/activity/727752589)** 
+
+### 1/28
+
+### 1/27
+
+### 1/26
+
 ### 1/25
 **Jogging.** 1.77 miles in 22:40 minutes. Tracked via [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/724477938) & [Strava](https://www.strava.com/activities/478372213)
 
