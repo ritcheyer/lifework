@@ -1,5 +1,21 @@
 # Year of Exercise
 
+## February
+
+### 2/1
+**T25 - Ab Intervals** 
+**Cindy - 8 Rounds Completed**
+
+* 20 min AMRAP
+* 5 Pullups
+* 10 Pushups
+* 15 Squats
+
+**Notes:**
+T25 made the abs pretty sore, but that's a standard sore that I've felt before.
+
+_*PR'ed Cindy.*_ (1st time doing it so expected) She felt good; completed 8 reps. Tomorrow and the next day I will be muscle-sore, but it was a really good sweat. Heart rate may have been a little too high at the end, and the last set was definitely sloppy.
+
 ## January
 
 ### 1/31
