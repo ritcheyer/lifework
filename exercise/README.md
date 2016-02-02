@@ -45,8 +45,13 @@ _*PR'ed Cindy.*_ (1st time doing it so expected) She felt good; completed 8 reps
 
 ### 1/24
 
-**WOD: Samuel.** 4 minutes. 3 sets of 10 pushups, 10 air squats.
-**Note(s):**Squats felt more muscular than cardio
+**WOD: Samuel.**
+
+* 4 minutes.
+* 3 sets of 10 pushups
+* 10 air squats.
+
+**Note(s):** Squats felt more muscular than cardio
 
 ### 1/11-16
 * nothing - big work project
