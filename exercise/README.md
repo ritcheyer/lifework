@@ -3,8 +3,8 @@
 ## February
 
 ### 2/1
-**T25 - Ab Intervals** 
-**Cindy - 8 Rounds Completed**
+**T25 - [Ab Intervals](https://runkeeper.com/user/ritcheyer/activity/728258341)** 
+**[Cindy](https://runkeeper.com/user/ritcheyer/activity/728259014) - 8 Rounds Completed**
 
 * 20 min AMRAP
 * 5 Pullups
