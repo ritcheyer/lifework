@@ -2,14 +2,17 @@
 
 ## February
 
+### 2/2
+**Jogging.** 2.04 Miles in 23:52. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/728768358) & [Strava](https://www.strava.com/activities/484740946)
+
 ### 2/1
 **T25 - [Ab Intervals](https://runkeeper.com/user/ritcheyer/activity/728258341)** 
 
 **[Cindy](https://runkeeper.com/user/ritcheyer/activity/728259014) - 8 Rounds Completed**
 
 * 20 min AMRAP
-* 5 Pullups
-* 10 Pushups
+* 5 Pullups (assisted with bands)
+* 10 Pushups (from knees)
 * 15 Squats
 
 **Notes:**
@@ -35,7 +38,7 @@ _*PR'ed Cindy.*_ (1st time doing it so expected) She felt good; completed 8 reps
 ### 1/26
 
 ### 1/25
-**Jogging.** 1.77 miles in 22:40 minutes. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/724477938) & [Strava](https://www.strava.com/activities/478372213)
+**Jogging.** 1.77 miles in 22:40. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/724477938) & [Strava](https://www.strava.com/activities/478372213)
 
 **WOD: Find the Gormy.** 5 rounds of
 
