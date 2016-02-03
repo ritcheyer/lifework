@@ -8,9 +8,8 @@
 ### 2/1
 **T25 - [Ab Intervals](https://runkeeper.com/user/ritcheyer/activity/728258341)** 
 
-**[Cindy](https://runkeeper.com/user/ritcheyer/activity/728259014) - 8 Rounds Completed**
+**[Cindy](https://runkeeper.com/user/ritcheyer/activity/728259014) - 20 min AMRAP; completed 8 rounds of**
 
-* 20 min AMRAP
 * 5 Pullups (assisted with bands)
 * 10 Pushups (from knees)
 * 15 Squats
