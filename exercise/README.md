@@ -2,6 +2,33 @@
 
 ## February
 
+### 2/7
+**Spartacus WOD.**
+
+_3 rounds of_:
+
+1. Goblet squat
+2. Mountain climber
+3. Single-arm dumbbell swing
+4. T-pushup
+5. Split Jump
+6. Dumbbell row
+7. Dumbbell side lunge and touch
+8. Pushup-position row
+9. Dumbbell lunge and rotation
+10. Dumbbell push press
+
+**Notes:**
+
+* `60 sec` for each set.
+* `20 sec` between each set.
+* `120 sec` break between each round
+* **`40 min`** total Time
+
+So far, I've completed this WOD 3x, with each time getting longer in duration or more sets. This was the first time I completed every exercise as prescribed (scaled given my ... abilities) as well as the number of sets asked.
+
+Next time, I'm going to record how many of each I completed so I can track my progress better.
+
 ### 2/2
 **Jogging.** 2.04 Miles in 23:52. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/728768358) & [Strava](https://www.strava.com/activities/484740946)
 
