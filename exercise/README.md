@@ -2,6 +2,12 @@
 
 ## February
 
+### 2/8
+**Jogging.** 2.13 Miles in 25:06. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/731743830) & [Strava](https://www.strava.com/activities/489253077)
+
+**T25 - [Alpha Cardio](https://runkeeper.com/user/ritcheyer/activity/731753824)**
+
+
 ### 2/7
 **Spartacus WOD.**
 
