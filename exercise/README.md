@@ -2,6 +2,46 @@
 
 ## February
 
+### 2/15
+**Spartacus WOD**
+_3 rounds EMOM_:
+
+1. Goblet squat
+2. Mountain climber
+3. Single-arm dumbbell swing
+4. T-pushup
+5. Split Jump
+6. Dumbbell row
+7. Dumbbell side lunge and touch
+8. Pushup-position row
+9. Dumbbell lunge and rotation
+10. Dumbbell push press
+
+**Notes:**
+
+* `60 sec` for each set.
+* `20 sec` between each set.
+* `120 sec` break between each round
+
+**Total Time**: `40 min`
+
+| Set  | Round 1 | Round 2 | Round 3 |
+|---|:---:|:---:|:---:|
+| Goblet Squat | 21 | 21 | 18 |
+| Mtn Climber |18 | 20 | 20 |
+| Single-arm dumbell swing | 14 | 14 | 14 |
+| T-pushup | 15 | 14 | 15 |
+| Split Jump | 13 | 10 | 8 |
+| Dumbbell row | 30 | 30 | 30 |
+| Dumbbell side lunge | 20 | 20 | 20 |
+| Pushup position row | 10 | 13 | 15 |
+| Dumbbell lunge + rotate | 15 | 16 | 13 |
+| Dumbbell push press | 15 | 11 | 10 |
+
+
+### 2/14
+**Jogging.** 2.31 Miles in 27:17. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/734622847) & [Strava](https://www.strava.com/activities/493862115)
+
 ### 2/13
 **The Hairy Carpet.**
 
