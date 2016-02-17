@@ -2,6 +2,19 @@
 
 ## February
 
+### 2/17
+**Jogging.** 2.15 Miles in 24:44. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/736004079) & [Strava](https://www.strava.com/activities/495837589). Lost GPS towards the end of the run, so Strava's is inaccurate. I was able to edit Runkeeper's map to be more accurate. Copying data from my m400 (which didn't lose GPS).
+
+**[Race the Storm](https://runkeeper.com/user/ritcheyer/activity/736034479) WOD**
+15 min AMRAP
+
+1. 10 Wall ball pushes (20#)
+2. 20 Kettlebell swings (1P/35#)
+3. 60 Single-unders (jump rope).
+
+**Notes:** I was able to complete 3 rounds of today's WOD. I had 1m30s left on the timer, but was toasted; couldn't push any more. Maybe I cheated myself, not sure.. Either way, successful workout.
+
+
 ### 2/15
 **Spartacus WOD**
 _3 rounds EMOM_:
