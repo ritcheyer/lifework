@@ -8,9 +8,11 @@
 **[Race the Storm](https://runkeeper.com/user/ritcheyer/activity/736034479) WOD**
 15 min AMRAP
 
-1. 10 Wall ball pushes (20#)
-2. 20 Kettlebell swings (1P/35#)
-3. 60 Single-unders (jump rope).
+```
+10 Wall ball pushes (20#)
+20 Kettlebell swings (1P/35#)
+60 Single-unders (jump rope).
+```
 
 **Notes:**
 Lost GPS towards the end of the run, so Strava's is inaccurate. I was able to edit Runkeeper's map to be more accurate. Copying data from my m400 (which didn't lose GPS).
