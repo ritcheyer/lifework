@@ -6,6 +6,7 @@
 **Jogging.** 2.15 Miles in 24:44. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/736004079) & [Strava](https://www.strava.com/activities/495837589).
 
 **[Race the Storm](https://runkeeper.com/user/ritcheyer/activity/736034479) WOD**
+
 15 min AMRAP
 
 ```
