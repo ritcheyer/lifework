@@ -2,6 +2,23 @@
 
 ## February
 
+2/19
+**Warm up run.** 0.69 Miles in 7:47. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/736971551) & [Strava](https://www.strava.com/activities/497309177).
+
+**[Count the Burn]() WOD**
+
+15 minute AMRAP
+
+```
+50 sumo deadlifts high pulls (scaled to 1.5 pood).
+40 walking lunges (body weight).
+30 dumb bell push press (scaled to 20#). 
+20 burpees. 
+10 hanging squats (scaled to 1 pood)
+```
+**Notes:**
+Completed 1 round... barely. lots of `quad quiver`.
+
 ### 2/17
 **Jogging.** 2.15 Miles in 24:44. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/736004079) & [Strava](https://www.strava.com/activities/495837589).
 
