@@ -5,7 +5,7 @@
 2/19
 **Warm up run.** 0.69 Miles in 7:47. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/736971551) & [Strava](https://www.strava.com/activities/497309177).
 
-**[Count the Burn]() WOD**
+**[Count the Burn](https://runkeeper.com/user/ritcheyer/activity/736984994) WOD**
 
 15 minute AMRAP
 
