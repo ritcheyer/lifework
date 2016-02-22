@@ -2,6 +2,26 @@
 
 ## February
 
+### 2/22
+**Jogging.** 2.17 Miles in 24:18. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/738646487) & [Strava](https://www.strava.com/activities/499950911).
+
+**[Allison #1](https://runkeeper.com/user/ritcheyer/activity/738671058) WOD**
+
+2 rounds of:
+
+```
+100 jump rope
+25 sit ups
+25 kettle bell swings
+5 pull-ups
+5 thrusters
+```
+| Round | Split |
+|:---:|:---:|
+| **1** | `9:21.0` |
+| **2** | `9:39.2` |
+| **Total** | `19:28.8` |
+
 ### 2/19
 
 **Warm up run.** 0.69 Miles in 7:47. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/736971551) & [Strava](https://www.strava.com/activities/497309177).
@@ -93,11 +113,12 @@ _3 rounds for time_:
 20 box jumps (scaled to step ups)
 ```
 
-* **Round 1:** `12:30.37`
-* **Round 2:** `16:04.47`
-* **Round 3:** `17:21.82`
-
-**Total time:** `45:57.35`
+| Round | Split |
+|:---:|---|
+| **1** | `12:30.37` |
+| **2** | `16:04.47` |
+| **3** | `17:21.82` |
+| **Total** | `45:57.35`|
 
 **Notes:**
 Definitely the hardest workout I've done so far. I was incredibly hesitant to start because I didn't want to actually do the work, but now that I did it I'm so thankful that I did.
