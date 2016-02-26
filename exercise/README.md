@@ -2,6 +2,32 @@
 
 ## February
 
+### 2/26
+**Jogging.** 1.01 Miles in 11:42. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/740310559) & [Strava](https://www.strava.com/activities/502469577).
+
+### 2/24
+**Jogging.** 0.65 Miles in 6:53. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/739686645) & [Strava](https://www.strava.com/activities/501500284).
+
+**[Allison #1](https://runkeeper.com/user/ritcheyer/activity/738671058) WOD**
+
+3 rounds of:
+
+```
+100 jump rope.
+25 sit ups.
+25 kettle bell swings (35 lbs). 
+5 pull-ups (scaled with bands).
+5 thrusters at 25 pound dumbbells.
+```
+| Round | Split |
+|---:|---:|
+| **1** | `7:54.8` |
+| **2** | `9:21.2` |
+| **2** | `10:52.7` |
+| **Total** | `28:13.6` |
+| **Avg split** | `9:22.9` |
+
+
 ### 2/22
 **Jogging.** 2.17 Miles in 24:18. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/738646487) & [Strava](https://www.strava.com/activities/499950911).
 
@@ -10,14 +36,14 @@
 2 rounds of:
 
 ```
-100 jump rope
-25 sit ups
-25 kettle bell swings
-5 pull-ups
-5 thrusters
+100 jump rope.
+25 sit ups.
+25 kettle bell swings (35 lbs). 
+5 pull-ups (scaled with bands).
+5 thrusters at 25 pound dumbbells.
 ```
 | Round | Split |
-|:---:|:---:|
+|---:|---:|
 | **1** | `9:21.0` |
 | **2** | `9:39.2` |
 | **Total** | `19:28.8` |
@@ -229,5 +255,3 @@ _*PR'ed Cindy.*_ (1st time doing it so expected) She felt good; completed 8 reps
 * **Jogging.** 2.03 Miles in 25:34. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/716219851)
 * 9 sets of pushups (8/set)
 * 2 sets of [Russian Twist](https://www.youtube.com/watch?v=qrOXAw5qjgI) (20/set)
-
-
