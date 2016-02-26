@@ -3,6 +3,30 @@
 ## February
 
 ### 2/26
+**[Stacey](https://runkeeper.com/user/ritcheyer/activity/740679682) WOD**
+
+3 rounds of:
+
+```
+12 dumbbell lunges ( 2 x 25).
+30 sit ups.
+20 box jumps.
+20 GHD sit-ups (scaled to bar hang knee lifts)
+30 push-ups
+10 kettle bell side bends (56 lbs)
+20 dumbbell rows (25 lbs).
+```
+
+| Round | Time |
+|---:|---:|
+| **1** | `9:26.6` |
+| **2** | `12:27.2` |
+| **3** | `11:36.8` |
+|**Total** | `33:30.7` |
+|**Avg Split** | `10:56.7` |
+
+
+### 2/25
 **Jogging.** 1.01 Miles in 11:42. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/740310559) & [Strava](https://www.strava.com/activities/502469577).
 
 ### 2/24
@@ -19,7 +43,7 @@
 5 pull-ups (scaled with bands).
 5 thrusters at 25 pound dumbbells.
 ```
-| Round | Split |
+| Round | Time |
 |---:|---:|
 | **1** | `7:54.8` |
 | **2** | `9:21.2` |
