@@ -2,6 +2,35 @@
 
 ## February
 
+### 2/29
+**Jogging.** 2.13 Miles in 24:14. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/742451648) & [Strava](https://www.strava.com/activities/505648193).
+
+**[The Traveler](https://runkeeper.com/user/ritcheyer/activity/742466440) WOD**
+
+10 round for time of:
+
+```
+10 squats
+10 mountain climbers
+10 push-ups
+10 sit-ups
+```
+
+|Round | Time |
+|---:|---:|
+| **1** | `1:57.7` |
+| **2** | `2:15.0` |
+| **3** | `2:33.1` |
+| **4** | `2:45.7` |
+| **5** | `2:10.5` |
+| **6** | `2:41.1` |
+| **7** | `2:33.0` |
+| **8** | `2:12.2` |
+| **9** | `2:18.7` |
+| **10** | `2:33:1` |
+| **Total** | `24:04.8` |
+| **Avg time** | `2:24.0` |
+
 ### 2/26
 **[Stacey](https://runkeeper.com/user/ritcheyer/activity/740679682) WOD**
 
