@@ -1,5 +1,45 @@
 # Year of Exercise
 
+## March
+
+### 3/2
+**Spartacus WOD**
+_3 rounds EMOM_:
+
+1. Goblet squat
+2. Mountain climber
+3. Single-arm dumbbell swing
+4. T-pushup
+5. Split Jump
+6. Dumbbell row
+7. Dumbbell side lunge and touch
+8. Pushup-position row
+9. Dumbbell lunge and rotation
+10. Dumbbell push press
+
+**Notes:**
+
+* `60 sec` for each set.
+* `20 sec` between each set.
+* `120 sec` break between each round
+
+**Total Time**: `40 min`
+
+| Set  | Round 1 | Round 2 | Round 3 |
+|---|:---:|:---:|:---:|
+| `Goblet squat` | 26 | 20 | 20 |
+| `Mtn climber` | 35 | 30 | 32 |
+| `Single-arm dumbell swing` | 16 | 14 | 13 |
+| `T-pushup` | 22 | 21 | 16 |
+| `Split jump` | 21 | 17 | 20 |
+| `Dumbbell row` | 32 | 34 | 40 |
+| `Dumbbell side lunge` | 21 | 19 | 21 |
+| `Pushup position row` | 28 | 23 | 22 |
+| `Dumbbell lunge + rotate` | 24 | 20 | 20 |
+| `Dumbbell push press` | 15 | 10 | 14 |
+
+
+
 ## February
 
 ### 2/29
@@ -163,16 +203,16 @@ _3 rounds EMOM_:
 
 | Set  | Round 1 | Round 2 | Round 3 |
 |---|:---:|:---:|:---:|
-| Goblet Squat | 21 | 21 | 18 |
-| Mtn Climber |18 | 20 | 20 |
-| Single-arm dumbell swing | 14 | 14 | 14 |
-| T-pushup | 15 | 14 | 15 |
-| Split Jump | 13 | 10 | 8 |
-| Dumbbell row | 30 | 30 | 30 |
-| Dumbbell side lunge | 20 | 20 | 20 |
-| Pushup position row | 10 | 13 | 15 |
-| Dumbbell lunge + rotate | 15 | 16 | 13 |
-| Dumbbell push press | 15 | 11 | 10 |
+| `Goblet squat` | 21 | 21 | 18 |
+| `Mtn climber` |18 | 20 | 20 |
+| `Single-arm dumbell swing` | 14 | 14 | 14 |
+| `T-pushup` | 15 | 14 | 15 |
+| `Split jump` | 13 | 10 | 8 |
+| `Dumbbell row` | 30 | 30 | 30 |
+| `Dumbbell side lunge` | 20 | 20 | 20 |
+| `Pushup position row` | 10 | 13 | 15 |
+| `Dumbbell lunge + rotate` | 15 | 16 | 13 |
+| `Dumbbell push press` | 15 | 11 | 10 |
 
 
 ### 2/14
