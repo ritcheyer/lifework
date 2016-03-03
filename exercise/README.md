@@ -3,7 +3,8 @@
 ## March
 
 ### 3/2
-**Spartacus WOD**
+**[Spartacus](https://runkeeper.com/user/ritcheyer/activity/743559868) WOD**
+
 _3 rounds EMOM_:
 
 1. Goblet squat
@@ -23,7 +24,7 @@ _3 rounds EMOM_:
 * `20 sec` between each set.
 * `120 sec` break between each round
 
-**Total Time**: `40 min`
+**Total Time**: `46:15 min`
 
 | Set  | Round 1 | Round 2 | Round 3 |
 |---|:---:|:---:|:---:|
