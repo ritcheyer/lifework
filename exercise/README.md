@@ -2,6 +2,36 @@
 
 ## March
 
+### 3/7
+
+**Running.** .86 miles in 9:13. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/746119504) & [Strava](https://www.strava.com/activities/511236611)
+
+**[Bill](https://runkeeper.com/user/ritcheyer/activity/746158319) WOD**
+
+_Tabata 4 cycles of:_
+
+8 Rounds of
+
+```
+Knees to chest / pull up hangs
+Kettlebell swings @ 35lbs
+Squats
+Pushups
+```
+
+1 set is: `:20s` on, `:10s` off
+
+| Cycle | Exercise | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 | Total |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **1** | **Knees-to-chest** | 9 | 9 | 8 | 8 | 5 | 3 | 5 | 5 | 52 |
+| **2** |  **Kettlebell swings** | 8 | 12 | 10 | 13 | 10 | 10 | 10 | 11 | 84 |
+| **3** |  **Squats** | 9 | 8 | 8 | 7 | 8 | 7 | 7 | 7 | 61 |
+| **4** | **Pushups** | 13 | 10 | 7 | 5 | 5 | 6 | 5 | 5 | 56 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| | **Total** | 39 | 39 | 33 | 33 | 28 | 26 | 27 | 28 | **253** |
+
+
+
 ### 3/2
 **[Spartacus](https://runkeeper.com/user/ritcheyer/activity/743559868) WOD**
 
@@ -44,7 +74,7 @@ _3 rounds EMOM_:
 ## February
 
 ### 2/29
-**Jogging.** 2.13 Miles in 24:14. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/742451648) & [Strava](https://www.strava.com/activities/505648193).
+**Jogging.** 2.13 miles in 24:14. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/742451648) & [Strava](https://www.strava.com/activities/505648193).
 
 **[The Traveler](https://runkeeper.com/user/ritcheyer/activity/742466440) WOD**
 
@@ -97,10 +127,10 @@ _3 rounds EMOM_:
 
 
 ### 2/25
-**Jogging.** 1.01 Miles in 11:42. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/740310559) & [Strava](https://www.strava.com/activities/502469577).
+**Jogging.** 1.01 miles in 11:42. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/740310559) & [Strava](https://www.strava.com/activities/502469577).
 
 ### 2/24
-**Jogging.** 0.65 Miles in 6:53. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/739686645) & [Strava](https://www.strava.com/activities/501500284).
+**Jogging.** 0.65 miles in 6:53. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/739686645) & [Strava](https://www.strava.com/activities/501500284).
 
 **[Allison #1](https://runkeeper.com/user/ritcheyer/activity/738671058) WOD**
 
@@ -123,7 +153,7 @@ _3 rounds EMOM_:
 
 
 ### 2/22
-**Jogging.** 2.17 Miles in 24:18. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/738646487) & [Strava](https://www.strava.com/activities/499950911).
+**Jogging.** 2.17 miles in 24:18. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/738646487) & [Strava](https://www.strava.com/activities/499950911).
 
 **[Allison #1](https://runkeeper.com/user/ritcheyer/activity/738671058) WOD**
 
@@ -144,7 +174,7 @@ _3 rounds EMOM_:
 
 ### 2/19
 
-**Warm up run.** 0.69 Miles in 7:47. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/736971551) & [Strava](https://www.strava.com/activities/497309177).
+**Warm up run.** 0.69 miles in 7:47. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/736971551) & [Strava](https://www.strava.com/activities/497309177).
 
 **[Count the Burn](https://runkeeper.com/user/ritcheyer/activity/736984994) WOD**
 
@@ -161,7 +191,7 @@ _3 rounds EMOM_:
 Completed 1 round... barely. lots of `quad quiver`.
 
 ### 2/17
-**Jogging.** 2.15 Miles in 24:44. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/736004079) & [Strava](https://www.strava.com/activities/495837589).
+**Jogging.** 2.15 miles in 24:44. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/736004079) & [Strava](https://www.strava.com/activities/495837589).
 
 **[Race the Storm](https://runkeeper.com/user/ritcheyer/activity/736034479) WOD**
 
@@ -217,7 +247,7 @@ _3 rounds EMOM_:
 
 
 ### 2/14
-**Jogging.** 2.31 Miles in 27:17. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/734622847) & [Strava](https://www.strava.com/activities/493862115)
+**Jogging.** 2.31 miles in 27:17. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/734622847) & [Strava](https://www.strava.com/activities/493862115)
 
 ### 2/13
 **The Hairy Carpet.**
@@ -248,7 +278,7 @@ Muscle wise I think I'm going to hurt pretty much everywhere tomorrow.
 
 
 ### 2/8
-**Jogging.** 2.13 Miles in 25:06. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/731743830) & [Strava](https://www.strava.com/activities/489253077)
+**Jogging.** 2.13 miles in 25:06. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/731743830) & [Strava](https://www.strava.com/activities/489253077)
 
 **T25 - [Alpha Cardio](https://runkeeper.com/user/ritcheyer/activity/731753824)**
 
@@ -284,7 +314,7 @@ So far, I've completed this WOD 3x, with each time getting longer in duration or
 Next time, I'm going to record how many of each I completed so I can track my progress better.
 
 ### 2/2
-**Jogging.** 2.04 Miles in 23:52. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/728768358) & [Strava](https://www.strava.com/activities/484740946)
+**Jogging.** 2.04 miles in 23:52. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/728768358) & [Strava](https://www.strava.com/activities/484740946)
 
 ### 2/1
 **T25 - [Ab Intervals](https://runkeeper.com/user/ritcheyer/activity/728258341)** 
@@ -346,6 +376,6 @@ _*PR'ed Cindy.*_ (1st time doing it so expected) She felt good; completed 8 reps
 * n/a
 
 ### 1/8
-* **Jogging.** 2.03 Miles in 25:34. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/716219851)
+* **Jogging.** 2.03 miles in 25:34. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/716219851)
 * 9 sets of pushups (8/set)
 * 2 sets of [Russian Twist](https://www.youtube.com/watch?v=qrOXAw5qjgI) (20/set)
