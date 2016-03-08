@@ -1,6 +1,6 @@
 # New Testament
 
-## Matthew
+<!-- ## Matthew
 ## Mark
 ## Luke
 ## John
@@ -17,7 +17,7 @@
 ## 1 Timothy
 ## 2 Timothy
 ## Titus
-## Philemon
+## Philemon -->
 ## Hebrews
 > Let us therefore strive to enter that rest, so that no one may fall by the same sort of disobedience. For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart. And no creature is hidden from his sight, but all are naked and exposed to the eyes of him to whom we must give account.
 
@@ -26,14 +26,14 @@
 > &mdash; <cite>[Hebrews 4:11-16][1]</cite>
 
 
-## James
+<!-- ## James
 ## 1 Peter
 ## 2 Peter
 ## 1 John
 ## 2 John
 ## 3 John
 ## Jude
-## Revelation
+## Revelation -->
 
 
 [1]:http://www.esvbible.org/hebrews+4:11-16/

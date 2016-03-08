@@ -1,5 +1,5 @@
 # Old Testament
-## Genesis
+<!-- ## Genesis
 ## Exodus
 ## Leviticus
 ## Numbers
@@ -37,4 +37,4 @@
 ## Zephaniah
 ## Haggai
 ## Zechariah
-## Malachi
+## Malachi -->
