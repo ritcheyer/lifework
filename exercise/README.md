@@ -2,6 +2,58 @@
 
 ## March
 
+### 3/25
+repeat 2x for time
+
+```
+1/2 mile run
+100 Single Unders
+30 bodyweight squats
+20 kettlebell swings
+```
+|Round|Split|
+|:---:|---:|
+| **1** | `11:52.7` |
+| **2** | `14:04.5` |
+| **Total** | `25:57.2` 
+
+### 3/11
+
+For Time
+
+**1 Round of:**
+
+```
+150 Single Unders
+50 Squats
+50 Push Press @ 25lb.
+```
+
+
+**2 Rounds of:**
+
+```
+100 Single Unders
+30 Squats
+30 Push Press @ 25lb.
+```
+
+
+**3 Rounds of:**
+
+```
+50 Single Unders
+20 Squats
+20 Push Press @ 25lb.
+```
+
+1. `11:13` Round 1.1
+2. `19:34` Round 2.1
+3. `27:28` Round 2.2
+4. `33:09` Round 3.1
+5. `37:16` Round 3.2
+6. `42:35` Round 3.3
+
 ### 3/7
 
 **Running.** .86 miles in 9:13. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/746119504) & [Strava](https://www.strava.com/activities/511236611)
@@ -22,7 +74,7 @@ Pushups
 1 set is: `:20s` on, `:10s` off
 
 | Cycle | Exercise | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 | Total |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | **1** | **Knees-to-chest** | 9 | 9 | 8 | 8 | 5 | 3 | 5 | 5 | 52 |
 | **2** |  **Kettlebell swings** | 8 | 12 | 10 | 13 | 10 | 10 | 10 | 11 | 84 |
 | **3** |  **Squats** | 9 | 8 | 8 | 7 | 8 | 7 | 7 | 7 | 61 |
