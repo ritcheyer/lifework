@@ -1,5 +1,64 @@
 # Year of Exercise
 
+## April
+
+### 4/4
+**Running**. 2.13 milesin 24:50. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/762394075) & [Strava](https://www.strava.com/activities/535876003)
+
+**For Time**
+Compare to [3/11](#311)
+
+For Time
+
+**1 Round of:**
+
+```
+150 Single Unders
+50 Squats
+50 Push Press @ 25lb.
+```
+
+
+**2 Rounds of:**
+
+```
+100 Single Unders
+30 Squats
+30 Push Press @ 25lb.
+```
+
+
+**3 Rounds of:**
+
+```
+50 Single Unders
+20 Squats
+20 Push Press @ 25lb.
+```
+
+1. `11:07` Round 1.1
+2. `08:22` Round 2.1
+3. `08:48` Round 2.2
+4. `05:11` Round 3.1
+5. `06:19` Round 3.2
+6. `05:24` Round 3.3
+
+
+|Round|Split|
+|:---:|---:|
+| **1.1** | `13:07` |
+| **2.1** | `19:29` |
+| **2.2** | `28:17` |
+| **3.1** | `33:29` |
+| **3.2** | `39:48` |
+| **3.3** | `45:13` |
+| **Total** | `45:13` | 
+
+
+### 4/3
+**Running**. 1.04 miles in 12:19 [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/761945300) & [Strava](https://www.strava.com/activities/535274128)
+
+
 ## March
 
 ### 3/25
@@ -53,6 +112,7 @@ For Time
 4. `33:09` Round 3.1
 5. `37:16` Round 3.2
 6. `42:35` Round 3.3
+
 
 ### 3/7
 
