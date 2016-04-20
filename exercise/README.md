@@ -12,7 +12,7 @@
 
 **Running**. 1.23 miles in 16:00. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/767592102)
 
-**[Maupin WOD](hero-wods/maupin)**
+**[Maupin WOD](hero-wods/Maupin)**
 
 **[4 Rounds of](https://runkeeper.com/user/ritcheyer/activity/767593536):**
 
