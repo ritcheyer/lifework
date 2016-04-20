@@ -2,13 +2,56 @@
 
 ## April
 
+### 4/16
+[LA Tough Mudder](https://runkeeper.com/user/ritcheyer/activity/769753412)
+
+
+8.50 miles in 3:01:32 of moving time (4:32:57 of total time)
+
+### 4/12
+
+**Running**. 1.23 miles in 16:00. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/767592102)
+**[4 Rounds of](https://runkeeper.com/user/ritcheyer/activity/767593536):**
+
+```
+500m run
+35 push-ups
+35 sit-ups
+35 squats
+```
+
+The run was part of the exercise listed, just logged separately.
+
+### 4/10
+
+**Running**. 2.13 miles in 24:39. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/766201527)
+
+> Felt pretty OK. Probably my last run before LA Mudder. Shins hurt a little bit but not too bad.
+
+### 4/7
+**Running**. .66 miles in 8:18. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/764357075)
+
+> Calves hurt. Stopped way early. Try again tomorrow.
+
+
+
+### 4/5
+
+**[For Time](https://runkeeper.com/user/ritcheyer/activity/763253045):**
+
+```
+55 push-ups
+55 burpees
+55 wall balls
+55 sit-ups
+```
+
+
 ### 4/4
-**Running**. 2.13 milesin 24:50. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/762394075) & [Strava](https://www.strava.com/activities/535876003)
+**Running**. 2.13 miles in 24:50. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/762394075) & [Strava](https://www.strava.com/activities/535876003)
 
-**For Time**
-Compare to [3/11](#311)
-
-For Time
+**For Time** (compare to [3/11](#311))
+https://runkeeper.com/user/ritcheyer/activity/762623407
 
 **1 Round of:**
 
