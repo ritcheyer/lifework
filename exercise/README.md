@@ -3,14 +3,17 @@
 ## April
 
 ### 4/16
-[LA Tough Mudder](https://runkeeper.com/user/ritcheyer/activity/769753412)
+**LA Tough Mudder**
 
-
-8.50 miles in 3:01:32 of moving time (4:32:57 of total time)
+* 8.50 miles in 3:01:32 of moving time as logged by [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/769753412)
+* 9.17 miles in 4:32:57 of total time as logged by my [Polar m400](https://flow.polar.com/training/analysis/532329797).
 
 ### 4/12
 
 **Running**. 1.23 miles in 16:00. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/767592102)
+
+**[Maupin WOD](hero-wods/maupin)**
+
 **[4 Rounds of](https://runkeeper.com/user/ritcheyer/activity/767593536):**
 
 ```
