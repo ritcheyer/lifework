@@ -2,6 +2,31 @@
 
 ## April
 
+### 4/27
+
+**[6 Rounds for time of:](https://runkeeper.com/user/ritcheyer/activity/777089060)**
+
+```
+10 Squats
+10 Burpees
+10 Pushups
+10 Knees-to-elbows/knee raises
+10 Sit ups
+10 Box jumps
+```
+
+|Round | Split |
+|---:|---:|
+| 1 | `5:21.1` |
+| 2 | `5:55.0` |
+| 3 | `5:24.6` |
+| 4 | `6:22.6` |
+| 5 | `6:11.3` |
+| 6 | `6:22.2` |
+| **Total** | `35:37.0` |
+
+
+
 ### 4/16
 **LA Tough Mudder**
 
