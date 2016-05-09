@@ -1,8 +1,59 @@
 # Year of Exercise
 
+## May
+
+### 5/6
+```
+100  SDHP
+100 Pushups
+75  SDHP
+75 Pushups
+50  SDHP
+50 Pushups
+```
+
+`SDHP` = Sumo Dealift High Pull (using 26 lb kettlebell)
+`Pushups` - band-assisted & from knees
+
+**Time:** `36:44`
+
+
+### 5/3
+**Running**. 2.30 miles in 23:51. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/780938686)
+
+
+### 5/2
+
+**21-19-15-9-6-3 for time of:**
+
+```
+Situps
+Kettlebell swings @ 53lbs -- go heavy
+Walking lunges
+Burpees -- focus on form
+```
+**Total Time:** `29:22`
+
 ## April
 
 ### 4/27
+
+**[Spartacus WOD](https://runkeeper.com/user/ritcheyer/activity/777250554)**
+
+_2 Rounds EMOM of:_
+
+```
+Goblet squat
+Mountain climber
+Kettle bell swing
+T-push-ups
+Split jumps
+Dumbbell row
+Dumbbell side lunge
+Push-up position row
+Dumbbell lunge & rotate
+Dumbbell push press
+```
 
 **[6 Rounds for time of:](https://runkeeper.com/user/ritcheyer/activity/777089060)**
 
