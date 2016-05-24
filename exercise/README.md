@@ -10,6 +10,7 @@ Murph
 100 pull ups
 200 pushups
 300 squats
+1 mile run
 ```
 [Run 1](https://runkeeper.com/user/ritcheyer/activity/794091896): `1.03` miles in `11:31`
 [Murph](https://runkeeper.com/user/ritcheyer/activity/794090781): `20` rounds in `57:46`
