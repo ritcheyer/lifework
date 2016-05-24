@@ -2,6 +2,115 @@
 
 ## May
 
+### 5/24/16
+Murph
+
+```
+1 mile run
+100 pull ups
+200 pushups
+300 squats
+```
+[Run 1](https://runkeeper.com/user/ritcheyer/activity/794091896): `1.03` miles in `11:31`
+[Murph](https://runkeeper.com/user/ritcheyer/activity/794090781): `20` rounds in `57:46`
+[Run 2](https://runkeeper.com/user/ritcheyer/activity/794052308): `1.01` miles in `14:50` 
+
+**Notes:**
+
+* Band assist pull-ups, sometimes with a bounce at the bottom
+* Push-ups from knees but belly touching every rep
+* I split murph in to sets of 5/10/15. Here is the breakdown:
+
+| Round | Time |
+|:---:|---:|
+| **Run** | `11:31.0` |
+| **1** | `1:32.3` |
+| **2** | `2:03.1` |
+| **3** | `1:46.3` |
+| **4** | `2:06.5` |
+| **5** | `1:57.1` |
+| **6** | `3:24.2` |
+| **7** | `2:31.8` |
+| **8** | `2:54.5` |
+| **9** | `3:10.6` |
+| **10** | `3:02.3` |
+| **11** | `1:35.2` |
+| **12** | `3:00.1` |
+| **13** | `3:08.1` |
+| **14** | `3:46.3` |
+| **15** | `4:52.6` |
+| **16** | `2:20.7` |
+| **17** | `3:47.6` |
+| **18** | `3:34.6` |
+| **19** | `3:41.6` |
+| **20** | `3:17.2` |
+| **Run** | `14:50.0` |
+| **Total time:** | `84:07.0` |
+
+
+### 5/20/16
+
+**Warmup:**
+5-5-5-5-5 Squats maxed at 225lbs
+
+**[10 rounds:](https://runkeeper.com/user/ritcheyer/activity/791847415)**
+
+```
+100m sprint
+10 push ups
+10 situps
+```
+
+### 5/19/16
+**Warmup:**
+`5-5-3-3-1-1-1-1` squat maxed at 365lbs
+
+**[6 rounds of:](https://runkeeper.com/user/ritcheyer/activity/791432668)**
+
+```
+5 pull-ups
+10 box jumps
+20 sit-ups
+200 m run
+```
+**Total time:** `22:11`
+
+### 5/13/16
+
+**Tabata 8 rounds each exercise**
+
+```
+Situps
+Squats 
+Plank
+Push-ups
+```
+
+1 set is: `:20s` on, `:10s` off
+
+| Cycle | Exercise | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 | Total |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| **1** | **situps** | - | - | - | - | - | - | - | - | - |
+| **2** |  **squats** | - | - | - | - | - | - | - | - | - |
+| **3** |  **plank** | - | - | - | - | - | - | - | - | - |
+| **4** | **Push-ups** | - | - | - | - | - | - | - | - | - |
+|---|---|---|---|---|---|---|---|---|---|---|
+| | **Total** |  | - | - | - | - | - | - | - | - | **xxx** |
+
+
+### 5/11/16
+**[20 Min AMRAP](https://runkeeper.com/user/ritcheyer/activity/786228475):**
+
+```
+3 Pull ups (band assisted)
+6 Push ups
+9 kettlebell swings (53kb)
+12 walking lunges (each leg)
+15 weighted situps (26kb kettlebell)
+18 box jumps/step ups
+```
+Completed just under 4 rounds. I was halfway through the last set of box jumps when the bell rang.
+
 ### 5/9
 **Running**. 2.07 miles in 23:21. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/784657978)
 
@@ -58,6 +167,20 @@ Push-up position row
 Dumbbell lunge & rotate
 Dumbbell push press
 ```
+
+| Set  | Round 1 | Round 2 |
+|---|:---:|:---:|
+| `Goblet squat` | 25 | 16 |
+| `Mtn climber` | 34 | 36 |
+| `Single-arm dumbell swing` | 24 | 22 |
+| `T-pushup` | 22 | 26 |
+| `Split jump` | 16 | 17 |
+| `Dumbbell row` | 23 | 32 |
+| `Dumbbell side lunge` | 16 | 23 |
+| `Pushup position row` | 25 | 32 |
+| `Dumbbell lunge + rotate` | 21 | 23 |
+| `Dumbbell push press` | 25 | 30 |
+
 
 **[6 Rounds for time of:](https://runkeeper.com/user/ritcheyer/activity/777089060)**
 
