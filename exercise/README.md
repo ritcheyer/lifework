@@ -1,8 +1,14 @@
 # Year of Exercise
 
+## June
+
+### 6/1
+**Running**. 1.72 miles in 20:36. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/799414256)
+
+
 ## May
 
-### 5/24/16
+### 5/24
 Murph
 
 ```
@@ -49,7 +55,7 @@ Murph
 | **Total time:** | `84:07.0` |
 
 
-### 5/20/16
+### 5/20
 
 **Warmup:**
 5-5-5-5-5 Squats maxed at 225lbs
@@ -62,7 +68,7 @@ Murph
 10 situps
 ```
 
-### 5/19/16
+### 5/19
 **Warmup:**
 `5-5-3-3-1-1-1-1` squat maxed at 365lbs
 
@@ -76,7 +82,7 @@ Murph
 ```
 **Total time:** `22:11`
 
-### 5/13/16
+### 5/13
 
 **Tabata 8 rounds each exercise**
 
@@ -99,7 +105,7 @@ Push-ups
 | | **Total** |  | - | - | - | - | - | - | - | - | **xxx** |
 
 
-### 5/11/16
+### 5/11
 **[20 Min AMRAP](https://runkeeper.com/user/ritcheyer/activity/786228475):**
 
 ```
