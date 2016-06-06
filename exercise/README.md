@@ -2,6 +2,19 @@
 
 ## June
 
+### 6/6
+**Running (warmup)** .76 miles in 8:37. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/802350849)
+
+[For time:](https://runkeeper.com/user/ritcheyer/activity/802366834)
+
+```
+20 pullups (band assisted)
+30 wall balls (no wall, just throwing into the air, trying to hit the 8-10 ft mark)
+40 double unders (scaled to 80 single unders)
+50 burpees
+```
+**Time:** `19:11`
+
 ### 6/1
 **Running**. 1.72 miles in 20:36. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/799414256)
 
