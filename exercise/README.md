@@ -2,6 +2,34 @@
 
 ## June
 
+### 6/21
+3 rounds for time:
+ - 500 m run
+ - 18 air squats
+ - 18 pull-ups
+ - 18 box jumps
+ - 18 burpees
+ - 18 sit ups
+ - 18 lunges
+ - 18 kettle bell swings at 53 lbs
+
+| Round | Time |
+|:---:|---:|
+| 1 | `15:23.8` |
+| 2 | `17:41.2` |
+| 3 | `24:41.3` |
+
+One of the kids came out during Round 2, which increased my times a bit. Kid 2 came out during Round 3 and Kids came out during round two, which increased my time. I actually enjoyed having them out for a bit of the workout.. some bonding type time. :)
+
+Super good workout. Felt really good to sweat like this again. Need to keep working on pull-ups and grip strength. 
+
+### 6/20
+**Running**. 1.40 miles in 16:02. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/811062751)
+
+### 6/11
+
+**Tahoe Tough Mudder**. 10.54 miles in 5:05:35. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/805620767)
+
 ### 6/6
 **Running (warmup)** .76 miles in 8:37. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/802350849)
 
