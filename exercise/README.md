@@ -2,16 +2,42 @@
 
 ## June
 
+### 6/22
+**[Orlando Strong](http://oneew.com/wodify/2409323/orlando-strong-memorial-workout)**
+
+```
+49 wall balls 20/14
+49 butterfly sit ups (scale to butterfly crunches)
+49 box jumps
+49 calorie row (scale to SDHP)
+49 pull ups
+49 burpees
+49 knee to elbow (scale to knee raises or timed hangs)
+49 DB thrusters 25/20
+49 push ups
+49 kb swings 53/35
+49 double unders
+49 DB overhead squat 25/20
+```
+**45 Minute Time Cap**
+
+Partnered with James on this one. Basically did 10 reps each then switched.
+
+
+
 ### 6/21
-3 rounds for time:
- - 500 m run
- - 18 air squats
- - 18 pull-ups
- - 18 box jumps
- - 18 burpees
- - 18 sit ups
- - 18 lunges
- - 18 kettle bell swings at 53 lbs
+**3 rounds for time:**
+
+```
+500 m run
+18 air squats
+18 pull-ups
+18 box jumps
+18 burpees
+18 sit ups
+18 lunges
+18 kettle bell swings at 53 lbs
+```
 
 | Round | Time |
 |:---:|---:|
