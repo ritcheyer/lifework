@@ -2,6 +2,17 @@
 
 ## June
 
+### 6/27 
+**Running**. 1.05 miles in 11:45. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/815242879)
+
+**15 min AMRAP:**
+
+```
+9 Thrusters with 30# Dumbbells
+12 Burpees over bar (no bar so I used the box in the pic)
+15 Box jumps @ 20"
+```
+
 ### 6/22
 **[Orlando Strong](http://oneew.com/wodify/2409323/orlando-strong-memorial-workout)**
 
