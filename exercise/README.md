@@ -2,6 +2,24 @@
 
 ## June
 
+### 6/30
+**[5 Rounds for time:](https://runkeeper.com/user/ritcheyer/activity/817122827)**
+
+```
+7 burpees
+14 push-ups
+21 kettlebell swings @ 1.5P
+28 sit-ups
+```
+| Round | TIme |
+|:---:|---:|
+| 1 | `4:36.0` |
+| 2 | `6:17.1` |
+| 3 | `5:48.2` |
+| 4 | `6:15.0` |
+| 5 | `6:57.5` |
+| **Total time:** | `29:54.0` |
+
 ### 6/27 
 **Running**. 1.05 miles in 11:45. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/815242879)
 
