@@ -1,5 +1,23 @@
 # Year of Exercise
 
+## July
+
+
+### 7/5
+
+**[12 Minute AMRAP](https://runkeeper.com/user/ritcheyer/activity/820248719)**
+
+```
+Push-ups
+Sit-ups
+```
+Start with 1 per round, add 1 rep each round
+
+11 rounds completed.
+
+`66` push-ups
+`66` sit-ups
+
 ## June
 
 ### 6/30
