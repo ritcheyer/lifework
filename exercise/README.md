@@ -2,6 +2,20 @@
 
 ## July
 
+### 7/6
+
+**[2 Rounds for time:](https://runkeeper.com/user/ritcheyer/activity/820895817)** (evening)
+
+```
+500m run
+40 burpees
+30 sit-ups
+20 hand release pushups
+```
+
+**Lunch RUn**. 2.11 miles in 24:05. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/820689370)
+
+
 
 ### 7/5
 
