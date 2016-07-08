@@ -2,6 +2,21 @@
 
 ## July
 
+### 7/8
+**Morning Run**. 2.01 miles in 27:08. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/821704069)
+
+**[7 Minute AMRAP](https://runkeeper.com/user/ritcheyer/activity/821730635)**
+
+```
+2 Wall balls @ 20 lbs
+2 kettle bell swings @ 55 lbs
+```
+Increase rep count by 2 every round Finished halfway thru the 14 rep sets with:
+
+* 110 wall balls
+* 78 kettle bell swings
+
+
 ### 7/6
 
 **[2 Rounds for time:](https://runkeeper.com/user/ritcheyer/activity/820895817)** (evening)
@@ -13,7 +28,7 @@
 20 hand release pushups
 ```
 
-**Lunch RUn**. 2.11 miles in 24:05. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/820689370)
+**Lunch Run**. 2.11 miles in 24:05. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/820689370)
 
 
 
