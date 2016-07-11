@@ -2,6 +2,30 @@
 
 ## July
 
+### 7/11
+
+**Warmup Run**. 0.98 miles in 10:45. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/823666906)
+
+**[20 min AMRAP of:](https://runkeeper.com/user/ritcheyer/activity/823686488)**
+
+```
+5 push-ups
+10 sit-ups 
+15 air squats
+```
+
+| Round | Time |
+|---:|:---:|
+| 1 | `1:45` |
+| 2 | `2:00` |
+| 3 | `2:10` |
+| 4 | `2:15` |
+| 5 | `2:28` |
+| 6 | `2:18` |
+| 7 | `2:39` |
+| 8 | `3:07` |
+| Total | 18:44 |
+
 ### 7/8
 **Morning Run**. 2.01 miles in 27:08. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/821704069)
 
