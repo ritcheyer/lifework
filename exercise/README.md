@@ -2,6 +2,31 @@
 
 ## July
 
+### 7/12
+
+**Warmup Run**. 1.16 miles in 11:32. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/824119508)
+
+**[6 Rounds for time:](https://runkeeper.com/user/ritcheyer/activity/824147592)**
+
+```
+10 air squats
+10 bar-over burpees
+10 push-ups
+10 knees-to-elbow / knee raises
+10 sit-ups
+10 box jumps (24"/20")
+```
+| Round | Time |
+|---:|:---:|
+| 1 | `8:12.6` |
+| 2 | `7:25.2` |
+| 3 | `8:26.3` |
+| 4 | `7:20.1` |
+| --- | --- |
+| **Total** | `31:24.4` |
+
+
+
 ### 7/11
 
 **Warmup Run**. 0.98 miles in 10:45. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/823666906)
@@ -24,6 +49,7 @@
 | 6 | `2:18` |
 | 7 | `2:39` |
 | 8 | `3:07` |
+| --- | --- |
 | Total | 18:44 |
 
 ### 7/8
@@ -89,6 +115,7 @@ Start with 1 per round, add 1 rep each round
 | 3 | `5:48.2` |
 | 4 | `6:15.0` |
 | 5 | `6:57.5` |
+| --- | --- |
 | **Total time:** | `29:54.0` |
 
 ### 6/27 
