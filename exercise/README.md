@@ -2,6 +2,27 @@
 
 ## July
 
+### 7/25
+
+Tracked via [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/832400928)
+
+**WARMUP - 3 Rounds of:**
+
+```
+5 Kettle bell swings (53lbs)
+5 Lunges
+5 Squats
+```
+
+**WOD**
+
+```
+10-9-8-7-6-5-4-3-2-1
+Sit-ups + 100m run between sets
+```
+**Total Time:** `19:19`
+
+
 ### 7/12
 
 **Warmup Run**. 1.16 miles in 11:32. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/824119508)
