@@ -1,6 +1,56 @@
 # Year of Exercise
 
+## August
+
+### 8/2
+Tracked via [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/837175456)
+
+**13 minute EMOM (alternating):**
+
+```
+ - 10 box jumps @ 20"
+ - 100 meter sprint
+```
+ 
+*2 minute rest*
+ 
+
+**6 rounds of:**
+
+```
+ - 6 push-ups 
+ - 6 dumbbell squats @ 2x25 lbs
+ - 6 knee raises
+ - 6 sumo deadlift high pull @ 2x25 lbs
+ - 6 push press @ 2x25 lbs
+ - 6 dumbbell row @ 2x25 lbs
+```
+
 ## July
+
+### 7/27
+
+```
+25 Burpees
+25 Squats
+25 Sit-ups
+25 Squats
+25 Push-ups
+25 Squats
+25 Lunges
+25 Squats
+```
+15:12
+
+### 7/26
+
+**[10 sets of:](https://runkeeper.com/user/ritcheyer/activity/832400928)**
+
+```
+10 knee raises
+10 dumbbell press @ 40 lbs
+```
+** Total time:** `24:59`
 
 ### 7/25
 
