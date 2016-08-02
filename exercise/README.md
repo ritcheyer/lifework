@@ -25,6 +25,7 @@ Tracked via [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/837175456)
  - 6 push press @ 2x25 lbs
  - 6 dumbbell row @ 2x25 lbs
 ```
+**Total Time:** `34:00`
 
 ## July
 
