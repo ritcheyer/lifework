@@ -2,6 +2,24 @@
 
 ## August
 
+### 8/8
+**[Tabata 2 Rounds](https://runkeeper.com/user/ritcheyer/activity/840910482):**
+
+```
+Lunges
+Situps
+Squats
+Plank
+```
+**Run**. 1.68 miles in 19:31. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/840876119)
+
+
+
+### 8/3
+
+**Run**. 1.58 miles in 19:09. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/837996689)
+
+
 ### 8/2
 Tracked via [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/837175456)
 
