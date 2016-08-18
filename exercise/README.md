@@ -2,6 +2,30 @@
 
 ## August
 
+### 8/17
+**[Warmup Run](https://runkeeper.com/user/ritcheyer/activity/846674697):** 2.09 miles in 24:59.
+
+**[Tabata 8 Rounds](https://runkeeper.com/user/ritcheyer/activity/845865609)**
+
+```
+Weighted sit-ups
+Leg Lift
+Mountain Climbers
+Plank
+```
+20s work - 10s rest - 30s between rounds
+
+### 8/16
+**[Warmup Run](https://runkeeper.com/user/ritcheyer/activity/845850406):** 1.06 miles in 11:08.
+
+**[14 minute AMRAP](https://runkeeper.com/user/ritcheyer/activity/845865609)**
+
+```
+7 sit-ups
+7 kettle bell swings @ 53 lb (2 pood)
+7 box jumps @ 15" (½ jumping, ½ step ups)
+```
+
 ### 8/8
 **[Tabata 2 Rounds](https://runkeeper.com/user/ritcheyer/activity/840910482):**
 
