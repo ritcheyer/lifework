@@ -26,6 +26,19 @@ Plank
 7 box jumps @ 15" (½ jumping, ½ step ups)
 ```
 
+| Round | Time |
+|:---:|---:|
+1 | `01:05` |
+2 | `01:09` |
+3 | `01:26` |
+4 | `01:34` |
+5 | `01:40` |
+6 | `01:32` |
+7 | `01:31` |
+8 | `01:29` |
+9 |  `01:20` |
+10 |  `01:13` |
+
 ### 8/8
 **[Tabata 2 Rounds](https://runkeeper.com/user/ritcheyer/activity/840910482):**
 
