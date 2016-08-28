@@ -2,6 +2,31 @@
 
 ## August
 
+### 8/28
+
+[0.38 warmup run](https://runkeeper.com/user/ritcheyer/activity/853181407). Stopped early due to some weird shin pain. I think I started way too fast with not enough stretching.
+
+**[20 min AMRAP](https://runkeeper.com/user/ritcheyer/activity/853192126):**
+ 
+ ```
+ dumbbell push press @ 40/35/30 lbs
+ kettle bell swing @ 53 lbs (2 pood)
+ box step ups @ 20"
+ ```
+I completed 8 rounds 
+
+Ethan worked out with me; his weights:
+
+```
+2lbs dumbbells
+9lbs kettle bell
+15" box step ups
+```
+He completed 5 rounds (first 2, last 3)
+
+### 8/24
+
+
 ### 8/17
 **[Warmup Run](https://runkeeper.com/user/ritcheyer/activity/846674697):** 2.09 miles in 24:59.
 
