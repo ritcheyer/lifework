@@ -1,6 +1,29 @@
 # Year of Exercise
 
+## September
+
 ## August
+
+### 9/2
+**[5 Rounds for time](https://runkeeper.com/user/ritcheyer/activity/856206306):**
+
+```
+7 Push ups
+11 Sit ups
+16 Air squats
+100 Single Unders
+80m Farmers carry
+    - R1 & R2: 100lbs (50lbs each side)
+    - R3 - R5: 90lbs (45lbs each side)
+```
+|Round|Time |
+|:---:|---:|
+| 1 | `6:05.0` | 
+| 2 | `5:00.0` | 
+| 3 | `7:01.1` | 
+| 4 | `7:19.0` | 
+| 5 | `8:21.5` | 
+| **Total** | **`33:50`** | 
 
 ### 8/28
 
