@@ -19,6 +19,8 @@ WOD:
 * 6x10 reps (60 reps)
 * Sets of 15 were with deep squats, sets of 10 were at medium squat depth
 
+This was the first real time in doing wall balls that I'd done the deep squat. Previously I had only done light/medium depth squats because I'm a noobie. I know the deep squats is the right way to do wall balls, so I am working up to that. I could only manage deep squats on 2/3 of the reps due to `inner thigh burn`.
+
 **Total Time:** `16:26`
 
 Tracked by [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/859339710).
