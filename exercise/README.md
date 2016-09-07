@@ -2,7 +2,27 @@
 
 ## September
 
-## August
+### 9/7
+
+```
+Warmup - 3 Rounds of:
+30 single unders
+10 walking lunges
+
+WOD:
+150 wall balls
+```
+
+**WOD Details:**
+
+* 6x15 reps (90 reps)
+* 6x10 reps (60 reps)
+* Sets of 15 were with deep squats, sets of 10 were at medium squat depth
+
+**Total Time:** `16:26`
+
+Tracked by [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/859339710).
+
 
 ### 9/2
 **[5 Rounds for time](https://runkeeper.com/user/ritcheyer/activity/856206306):**
@@ -24,6 +44,8 @@
 | 4 | `7:19.0` | 
 | 5 | `8:21.5` | 
 | **Total** | **`33:50`** | 
+
+## August
 
 ### 8/28
 
