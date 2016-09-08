@@ -4,6 +4,24 @@
 
 ### 9/7
 
+**[Tabata 8 rounds](https://runkeeper.com/user/ritcheyer/activity/859506171):**
+
+```
+Battle Rope
+Dumb bell row
+Plank
+Dumb bell push press
+```
+Tabata:
+`:20` Work
+`:10` Rest
+`:40` Rest between rounds
+&nbsp;
+
+---
+
+&nbsp;
+
 ```
 Warmup - 3 Rounds of:
 30 single unders
