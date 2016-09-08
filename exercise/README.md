@@ -12,7 +12,8 @@ Dumb bell row
 Plank
 Dumb bell push press
 ```
-Tabata:
+**Tabata:**
+
 `:20` Work
 `:10` Rest
 `:40` Rest between rounds
