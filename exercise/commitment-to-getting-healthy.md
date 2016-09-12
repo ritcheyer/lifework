@@ -4,7 +4,7 @@ Below is a note I sent to the guys in our #humblebragging channel in Slack. Fuel
 
 Alright dudes... today I renew my commitment to this channel and my goal. My weight has gone in the wrong direction for the last few weeks, and after having been so close to my goal weight then fallen so far back (yes, small number in the grand scheme of things), I’m unhappy with myself. I put myself in front of you guys and ask for your help..
 
-My struggles are as follows:
+### My struggles are as follows:
 
  - Portion control
  - Late night snacking
@@ -14,7 +14,7 @@ My struggles are as follows:
 
 While I know that each and every one of these can be easier for other people to be lax about, I cannot (at least, not yet). I’m being honest here because you guys are great and inspiring.
 
-My goals to fix the above are as follows:
+### My goals to fix the above are as follows:
 
  - *Bedtime:* In bed with lights off and phone put away by midnight. Regardless of workload. There will always be more.
  - *Awake time:* Out of bed no later than 7am. I'm starting here, but have a true goal of 6am.
