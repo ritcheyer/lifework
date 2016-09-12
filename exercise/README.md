@@ -2,6 +2,22 @@
 
 ## September
 
+### 9/12
+**[12 min AMRAP](https://runkeeper.com/user/ritcheyer/activity/862373117)**
+
+```
+5 pushups
+10 situps
+15 air squats
+```
+
+7 rounds
+
+Exercise + Good eating habits... need daily reminders of both of these.
+
+Trying to get back into the habit of working out 3-5x/wk. Gained a lot of previously lost weight back over the past couple of weeks. 
+
+
 ### 9/7
 
 **[Tabata 8 rounds](https://runkeeper.com/user/ritcheyer/activity/859506171):**
