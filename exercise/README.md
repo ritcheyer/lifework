@@ -2,6 +2,20 @@
 
 ## September
 
+### 9/14
+
+**[Warmup Run:](https://runkeeper.com/user/ritcheyer/activity/863628468)** 1.03 miles in 11:24.
+
+**[10-9-8-7-6-5-4-3-2-1:](https://runkeeper.com/user/ritcheyer/activity/863637091)**
+
+```
+Sit-ups x 2 (twice the number of reps)
+Kettle bell swings @ 53lbs
+```
+
+**Total Time:** `14:40`
+
+
 ### 9/12
 **[12 min AMRAP](https://runkeeper.com/user/ritcheyer/activity/862373117)**
 
