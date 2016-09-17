@@ -2,6 +2,26 @@
 
 ## September
 
+### 9/16
+
+**[Warmup Run:](https://runkeeper.com/user/ritcheyer/activity/864896214)** 0.93 miles in 10:16.
+
+**[For Time:](https://runkeeper.com/user/ritcheyer/activity/864900746)**
+
+```
+10 burpees
+20 SDHP (53lb)
+30 pushups
+40 situps
+50 squats
+40 situps
+30 pushups
+20 SDHP
+10 burpees
+```
+
+Time: `23:31`
+
 ### 9/14
 
 **[Warmup Run:](https://runkeeper.com/user/ritcheyer/activity/863628468)** 1.03 miles in 11:24.
