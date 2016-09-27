@@ -2,6 +2,36 @@
 
 ## September
 
+### 9/26
+
+[**Warmup Jog** (with boys on bikes)](https://runkeeper.com/user/ritcheyer/activity/870860486): 0.95 miles in 17:28.
+
+**[15 minute AMRAP](https://runkeeper.com/user/ritcheyer/activity/870880734)**:
+
+```
+30 push press @ 45lbs
+30 sumo deadlift high pull
+30 back extensions
+30 dips
+30 sit-ups
+
+20 push press @ 45lbs
+20 sumo deadlift high pull
+20 back extensions
+20 dips
+20 sit-ups
+
+10 push press @ 45lbs
+10 sumo deadlift high pull
+10 back extensions
+10 dips
+10 sit-ups
+```
+
+Got through the round of 20 with 5 seconds to spare. 
+
+**[Post WOD jog](https://runkeeper.com/user/ritcheyer/activity/870883078)** 0.60 miles in 7:35.
+
 ### 9/16
 
 **[Warmup Run:](https://runkeeper.com/user/ritcheyer/activity/864896214)** 0.93 miles in 10:16.
