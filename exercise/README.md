@@ -1,6 +1,74 @@
 # Year of Exercise
 
+
+
+## October
+
+### 10/5
+
+**[Warmup Run](https://runkeeper.com/user/ritcheyer/activity/875769672)**: 0.96 miles in 10:17
+
+**[15 minute AMRAP:](https://runkeeper.com/user/ritcheyer/activity/875781080)**
+
+```
+10 kettlebell swings @ 53lbs
+15 sit-ups
+20 air squats
+```
+
+
+
+### 10/3
+
+**[Warmup Run]():** 1.01 miles in 10:57
+
+**[5 rounds of](https://runkeeper.com/user/ritcheyer/activity/874609129):**
+
+```
+11 wall balls @ 20lbs
+11 burpees
+```
+
 ## September
+
+### 9/30
+
+**[Warmup Run](https://runkeeper.com/user/ritcheyer/activity/872982795):** 0.70 miles in 14:43
+
+**[5 rounds or 35 minutes of](https://runkeeper.com/user/ritcheyer/activity/873001261)**:
+
+```
+22 overhead kettle bell swings (35 lbs)
+22 box step ups(11 each side)
+400 meter run
+22 burpees
+22 wallballs (20 lbs)
+```
+
+Completed 3 of 5 rounds with 60s to spare
+
+| Round |    Time |
+| :---: | ------: |
+|   1   |  9:47.6 |
+|   2   | 11:14.5 |
+|   3   | 13:20.6 |
+
+### 9/28
+
+**[Warmup Run](https://runkeeper.com/user/ritcheyer/activity/871922692):** 0.85 miles in 9:57.
+
+**[15 min time cap, max 5 rounds:](https://runkeeper.com/user/ritcheyer/activity/871928600)**
+
+```
+
+5 push press @ 45lbs
+10 burpees
+5 dips
+10 box step ups @ 24"
+5 pull-ups
+
+Completed 4 of 5 rounds in the time cap. Did push press of round 5.
+```
 
 ### 9/26
 
@@ -137,14 +205,14 @@ Tracked by [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/859339710).
     - R1 & R2: 100lbs (50lbs each side)
     - R3 - R5: 90lbs (45lbs each side)
 ```
-|Round|Time |
-|:---:|---:|
-| 1 | `6:05.0` | 
-| 2 | `5:00.0` | 
-| 3 | `7:01.1` | 
-| 4 | `7:19.0` | 
-| 5 | `8:21.5` | 
-| **Total** | **`33:50`** | 
+|   Round   |        Time |
+| :-------: | ----------: |
+|     1     |    `6:05.0` |
+|     2     |    `5:00.0` |
+|     3     |    `7:01.1` |
+|     4     |    `7:19.0` |
+|     5     |    `8:21.5` |
+| **Total** | **`33:50`** |
 
 ## August
 
@@ -153,7 +221,7 @@ Tracked by [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/859339710).
 [0.38 warmup run](https://runkeeper.com/user/ritcheyer/activity/853181407). Stopped early due to some weird shin pain. I think I started way too fast with not enough stretching.
 
 **[20 min AMRAP](https://runkeeper.com/user/ritcheyer/activity/853192126):**
- 
+
  ```
  dumbbell push press @ 40/35/30 lbs
  kettle bell swing @ 53 lbs (2 pood)
@@ -237,9 +305,9 @@ Tracked via [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/837175456)
  - 10 box jumps @ 20"
  - 100 meter sprint
 ```
- 
+
 *2 minute rest*
- 
+
 
 **6 rounds of:**
 
@@ -314,13 +382,13 @@ Sit-ups + 100m run between sets
 10 sit-ups
 10 box jumps (24"/20")
 ```
-| Round | Time |
-|---:|:---:|
-| 1 | `8:12.6` |
-| 2 | `7:25.2` |
-| 3 | `8:26.3` |
-| 4 | `7:20.1` |
-| --- | --- |
+|     Round |   Time    |
+| --------: | :-------: |
+|         1 | `8:12.6`  |
+|         2 | `7:25.2`  |
+|         3 | `8:26.3`  |
+|         4 | `7:20.1`  |
+|       --- |    ---    |
 | **Total** | `31:24.4` |
 
 
@@ -337,18 +405,18 @@ Sit-ups + 100m run between sets
 15 air squats
 ```
 
-| Round | Time |
-|---:|:---:|
-| 1 | `1:45` |
-| 2 | `2:00` |
-| 3 | `2:10` |
-| 4 | `2:15` |
-| 5 | `2:28` |
-| 6 | `2:18` |
-| 7 | `2:39` |
-| 8 | `3:07` |
-| --- | --- |
-| Total | 18:44 |
+| Round |  Time  |
+| ----: | :----: |
+|     1 | `1:45` |
+|     2 | `2:00` |
+|     3 | `2:10` |
+|     4 | `2:15` |
+|     5 | `2:28` |
+|     6 | `2:18` |
+|     7 | `2:39` |
+|     8 | `3:07` |
+|   --- |  ---   |
+| Total | 18:44  |
 
 ### 7/8
 **Morning Run**. 2.01 miles in 27:08. [Runkeeper](https://runkeeper.com/user/ritcheyer/activity/821704069)
@@ -406,14 +474,14 @@ Start with 1 per round, add 1 rep each round
 21 kettlebell swings @ 1.5P
 28 sit-ups
 ```
-| Round | TIme |
-|:---:|---:|
-| 1 | `4:36.0` |
-| 2 | `6:17.1` |
-| 3 | `5:48.2` |
-| 4 | `6:15.0` |
-| 5 | `6:57.5` |
-| --- | --- |
+|      Round      |      TIme |
+| :-------------: | --------: |
+|        1        |  `4:36.0` |
+|        2        |  `6:17.1` |
+|        3        |  `5:48.2` |
+|        4        |  `6:15.0` |
+|        5        |  `6:57.5` |
+|       ---       |       --- |
 | **Total time:** | `29:54.0` |
 
 ### 6/27 
@@ -464,11 +532,11 @@ Partnered with James on this one. Basically did 10 reps each then switched.
 18 kettle bell swings at 53 lbs
 ```
 
-| Round | Time |
-|:---:|---:|
-| 1 | `15:23.8` |
-| 2 | `17:41.2` |
-| 3 | `24:41.3` |
+| Round |      Time |
+| :---: | --------: |
+|   1   | `15:23.8` |
+|   2   | `17:41.2` |
+|   3   | `24:41.3` |
 
 One of the kids came out during Round 2, which increased my times a bit. Kid 2 came out during Round 3 and Kids came out during round two, which increased my time. I actually enjoyed having them out for a bit of the workout.. some bonding type time. :)
 
@@ -520,30 +588,30 @@ Murph
 * Push-ups from knees but belly touching every rep
 * I split murph in to sets of 5/10/15. Here is the breakdown:
 
-| Round | Time |
-|:---:|---:|
-| **Run** | `11:31.0` |
-| **1** | `1:32.3` |
-| **2** | `2:03.1` |
-| **3** | `1:46.3` |
-| **4** | `2:06.5` |
-| **5** | `1:57.1` |
-| **6** | `3:24.2` |
-| **7** | `2:31.8` |
-| **8** | `2:54.5` |
-| **9** | `3:10.6` |
-| **10** | `3:02.3` |
-| **11** | `1:35.2` |
-| **12** | `3:00.1` |
-| **13** | `3:08.1` |
-| **14** | `3:46.3` |
-| **15** | `4:52.6` |
-| **16** | `2:20.7` |
-| **17** | `3:47.6` |
-| **18** | `3:34.6` |
-| **19** | `3:41.6` |
-| **20** | `3:17.2` |
-| **Run** | `14:50.0` |
+|      Round      |      Time |
+| :-------------: | --------: |
+|     **Run**     | `11:31.0` |
+|      **1**      |  `1:32.3` |
+|      **2**      |  `2:03.1` |
+|      **3**      |  `1:46.3` |
+|      **4**      |  `2:06.5` |
+|      **5**      |  `1:57.1` |
+|      **6**      |  `3:24.2` |
+|      **7**      |  `2:31.8` |
+|      **8**      |  `2:54.5` |
+|      **9**      |  `3:10.6` |
+|     **10**      |  `3:02.3` |
+|     **11**      |  `1:35.2` |
+|     **12**      |  `3:00.1` |
+|     **13**      |  `3:08.1` |
+|     **14**      |  `3:46.3` |
+|     **15**      |  `4:52.6` |
+|     **16**      |  `2:20.7` |
+|     **17**      |  `3:47.6` |
+|     **18**      |  `3:34.6` |
+|     **19**      |  `3:41.6` |
+|     **20**      |  `3:17.2` |
+|     **Run**     | `14:50.0` |
 | **Total time:** | `84:07.0` |
 
 
@@ -587,14 +655,14 @@ Push-ups
 
 1 set is: `:20s` on, `:10s` off
 
-| Cycle | Exercise | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 | Total |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| **1** | **situps** | - | - | - | - | - | - | - | - | - |
-| **2** |  **squats** | - | - | - | - | - | - | - | - | - |
-| **3** |  **plank** | - | - | - | - | - | - | - | - | - |
-| **4** | **Push-ups** | - | - | - | - | - | - | - | - | - |
-|---|---|---|---|---|---|---|---|---|---|---|
-| | **Total** |  | - | - | - | - | - | - | - | - | **xxx** |
+| Cycle | Exercise     |   R1 |   R2 |   R3 |   R4 |   R5 |   R6 |   R7 |   R8 | Total |
+| ----- | ------------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ----: |
+| **1** | **situps**   |    - |    - |    - |    - |    - |    - |    - |    - |     - |
+| **2** | **squats**   |    - |    - |    - |    - |    - |    - |    - |    - |     - |
+| **3** | **plank**    |    - |    - |    - |    - |    - |    - |    - |    - |     - |
+| **4** | **Push-ups** |    - |    - |    - |    - |    - |    - |    - |    - |     - |
+| ---   | ---          |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |   --- |
+|       | **Total**    |      |    - |    - |    - |    - |    - |    - |    - |     - |
 
 
 ### 5/11
@@ -667,18 +735,18 @@ Dumbbell lunge & rotate
 Dumbbell push press
 ```
 
-| Set  | Round 1 | Round 2 |
-|---|:---:|:---:|
-| `Goblet squat` | 25 | 16 |
-| `Mtn climber` | 34 | 36 |
-| `Single-arm dumbell swing` | 24 | 22 |
-| `T-pushup` | 22 | 26 |
-| `Split jump` | 16 | 17 |
-| `Dumbbell row` | 23 | 32 |
-| `Dumbbell side lunge` | 16 | 23 |
-| `Pushup position row` | 25 | 32 |
-| `Dumbbell lunge + rotate` | 21 | 23 |
-| `Dumbbell push press` | 25 | 30 |
+| Set                        | Round 1 | Round 2 |
+| -------------------------- | :-----: | :-----: |
+| `Goblet squat`             |   25    |   16    |
+| `Mtn climber`              |   34    |   36    |
+| `Single-arm dumbell swing` |   24    |   22    |
+| `T-pushup`                 |   22    |   26    |
+| `Split jump`               |   16    |   17    |
+| `Dumbbell row`             |   23    |   32    |
+| `Dumbbell side lunge`      |   16    |   23    |
+| `Pushup position row`      |   25    |   32    |
+| `Dumbbell lunge + rotate`  |   21    |   23    |
+| `Dumbbell push press`      |   25    |   30    |
 
 
 **[6 Rounds for time of:](https://runkeeper.com/user/ritcheyer/activity/777089060)**
@@ -692,14 +760,14 @@ Dumbbell push press
 10 Box jumps
 ```
 
-|Round | Split |
-|---:|---:|
-| 1 | `5:21.1` |
-| 2 | `5:55.0` |
-| 3 | `5:24.6` |
-| 4 | `6:22.6` |
-| 5 | `6:11.3` |
-| 6 | `6:22.2` |
+|     Round |     Split |
+| --------: | --------: |
+|         1 |  `5:21.1` |
+|         2 |  `5:55.0` |
+|         3 |  `5:24.6` |
+|         4 |  `6:22.6` |
+|         5 |  `6:11.3` |
+|         6 |  `6:22.2` |
 | **Total** | `35:37.0` |
 
 
@@ -792,15 +860,15 @@ https://runkeeper.com/user/ritcheyer/activity/762623407
 6. `05:24` Round 3.3
 
 
-|Round|Split|
-|:---:|---:|
-| **1.1** | `13:07` |
-| **2.1** | `19:29` |
-| **2.2** | `28:17` |
-| **3.1** | `33:29` |
-| **3.2** | `39:48` |
-| **3.3** | `45:13` |
-| **Total** | `45:13` | 
+|   Round   |   Split |
+| :-------: | ------: |
+|  **1.1**  | `13:07` |
+|  **2.1**  | `19:29` |
+|  **2.2**  | `28:17` |
+|  **3.1**  | `33:29` |
+|  **3.2**  | `39:48` |
+|  **3.3**  | `45:13` |
+| **Total** | `45:13` |
 
 
 ### 4/3
@@ -818,8 +886,8 @@ repeat 2x for time
 30 bodyweight squats
 20 kettlebell swings
 ```
-|Round|Split|
-|:---:|---:|
+| Round |     Split |
+| :---: | --------: |
 | **1** | `11:52.7` |
 | **2** | `14:04.5` |
 | **Total** | `25:57.2` 
@@ -881,14 +949,14 @@ Pushups
 
 1 set is: `:20s` on, `:10s` off
 
-| Cycle | Exercise | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 | Total |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| **1** | **Knees-to-chest** | 9 | 9 | 8 | 8 | 5 | 3 | 5 | 5 | 52 |
-| **2** |  **Kettlebell swings** | 8 | 12 | 10 | 13 | 10 | 10 | 10 | 11 | 84 |
-| **3** |  **Squats** | 9 | 8 | 8 | 7 | 8 | 7 | 7 | 7 | 61 |
-| **4** | **Pushups** | 13 | 10 | 7 | 5 | 5 | 6 | 5 | 5 | 56 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| | **Total** | 39 | 39 | 33 | 33 | 28 | 26 | 27 | 28 | **253** |
+| Cycle | Exercise              |   R1 |   R2 |   R3 |   R4 |   R5 |   R6 |   R7 |   R8 |   Total |
+| ----- | --------------------- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------: |
+| **1** | **Knees-to-chest**    |    9 |    9 |    8 |    8 |    5 |    3 |    5 |    5 |      52 |
+| **2** | **Kettlebell swings** |    8 |   12 |   10 |   13 |   10 |   10 |   10 |   11 |      84 |
+| **3** | **Squats**            |    9 |    8 |    8 |    7 |    8 |    7 |    7 |    7 |      61 |
+| **4** | **Pushups**           |   13 |   10 |    7 |    5 |    5 |    6 |    5 |    5 |      56 |
+| ---   | ---                   |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |     --- |
+|       | **Total**             |   39 |   39 |   33 |   33 |   28 |   26 |   27 |   28 | **253** |
 
 
 
@@ -916,18 +984,18 @@ _3 rounds EMOM_:
 
 **Total Time**: `46:15 min`
 
-| Set  | Round 1 | Round 2 | Round 3 |
-|---|:---:|:---:|:---:|
-| `Goblet squat` | 26 | 20 | 20 |
-| `Mtn climber` | 35 | 30 | 32 |
-| `Single-arm dumbell swing` | 16 | 14 | 13 |
-| `T-pushup` | 22 | 21 | 16 |
-| `Split jump` | 21 | 17 | 20 |
-| `Dumbbell row` | 32 | 34 | 40 |
-| `Dumbbell side lunge` | 21 | 19 | 21 |
-| `Pushup position row` | 28 | 23 | 22 |
-| `Dumbbell lunge + rotate` | 24 | 20 | 20 |
-| `Dumbbell push press` | 15 | 10 | 14 |
+| Set                        | Round 1 | Round 2 | Round 3 |
+| -------------------------- | :-----: | :-----: | :-----: |
+| `Goblet squat`             |   26    |   20    |   20    |
+| `Mtn climber`              |   35    |   30    |   32    |
+| `Single-arm dumbell swing` |   16    |   14    |   13    |
+| `T-pushup`                 |   22    |   21    |   16    |
+| `Split jump`               |   21    |   17    |   20    |
+| `Dumbbell row`             |   32    |   34    |   40    |
+| `Dumbbell side lunge`      |   21    |   19    |   21    |
+| `Pushup position row`      |   28    |   23    |   22    |
+| `Dumbbell lunge + rotate`  |   24    |   20    |   20    |
+| `Dumbbell push press`      |   15    |   10    |   14    |
 
 
 
@@ -947,20 +1015,20 @@ _3 rounds EMOM_:
 10 sit-ups
 ```
 
-|Round | Time |
-|---:|---:|
-| **1** | `1:57.7` |
-| **2** | `2:15.0` |
-| **3** | `2:33.1` |
-| **4** | `2:45.7` |
-| **5** | `2:10.5` |
-| **6** | `2:41.1` |
-| **7** | `2:33.0` |
-| **8** | `2:12.2` |
-| **9** | `2:18.7` |
-| **10** | `2:33:1` |
-| **Total** | `24:04.8` |
-| **Avg time** | `2:24.0` |
+|        Round |      Time |
+| -----------: | --------: |
+|        **1** |  `1:57.7` |
+|        **2** |  `2:15.0` |
+|        **3** |  `2:33.1` |
+|        **4** |  `2:45.7` |
+|        **5** |  `2:10.5` |
+|        **6** |  `2:41.1` |
+|        **7** |  `2:33.0` |
+|        **8** |  `2:12.2` |
+|        **9** |  `2:18.7` |
+|       **10** |  `2:33:1` |
+|    **Total** | `24:04.8` |
+| **Avg time** |  `2:24.0` |
 
 ### 2/26
 **[Stacey](https://runkeeper.com/user/ritcheyer/activity/740679682) WOD**
@@ -977,13 +1045,13 @@ _3 rounds EMOM_:
 20 dumbbell rows (25 lbs).
 ```
 
-| Round | Time |
-|---:|---:|
-| **1** | `9:26.6` |
-| **2** | `12:27.2` |
-| **3** | `11:36.8` |
-|**Total** | `33:30.7` |
-|**Avg Split** | `10:56.7` |
+|         Round |      Time |
+| ------------: | --------: |
+|         **1** |  `9:26.6` |
+|         **2** | `12:27.2` |
+|         **3** | `11:36.8` |
+|     **Total** | `33:30.7` |
+| **Avg Split** | `10:56.7` |
 
 
 ### 2/25
@@ -1003,13 +1071,13 @@ _3 rounds EMOM_:
 5 pull-ups (scaled with bands).
 5 thrusters at 25 pound dumbbells.
 ```
-| Round | Time |
-|---:|---:|
-| **1** | `7:54.8` |
-| **2** | `9:21.2` |
-| **2** | `10:52.7` |
-| **Total** | `28:13.6` |
-| **Avg split** | `9:22.9` |
+|         Round |      Time |
+| ------------: | --------: |
+|         **1** |  `7:54.8` |
+|         **2** |  `9:21.2` |
+|         **2** | `10:52.7` |
+|     **Total** | `28:13.6` |
+| **Avg split** |  `9:22.9` |
 
 
 ### 2/22
@@ -1026,10 +1094,10 @@ _3 rounds EMOM_:
 5 pull-ups (scaled with bands).
 5 thrusters at 25 pound dumbbells.
 ```
-| Round | Split |
-|---:|---:|
-| **1** | `9:21.0` |
-| **2** | `9:39.2` |
+|     Round |     Split |
+| --------: | --------: |
+|     **1** |  `9:21.0` |
+|     **2** |  `9:39.2` |
 | **Total** | `19:28.8` |
 
 ### 2/19
@@ -1092,18 +1160,18 @@ _3 rounds EMOM_:
 
 **Total Time**: `40 min`
 
-| Set  | Round 1 | Round 2 | Round 3 |
-|---|:---:|:---:|:---:|
-| `Goblet squat` | 21 | 21 | 18 |
-| `Mtn climber` |18 | 20 | 20 |
-| `Single-arm dumbell swing` | 14 | 14 | 14 |
-| `T-pushup` | 15 | 14 | 15 |
-| `Split jump` | 13 | 10 | 8 |
-| `Dumbbell row` | 30 | 30 | 30 |
-| `Dumbbell side lunge` | 20 | 20 | 20 |
-| `Pushup position row` | 10 | 13 | 15 |
-| `Dumbbell lunge + rotate` | 15 | 16 | 13 |
-| `Dumbbell push press` | 15 | 11 | 10 |
+| Set                        | Round 1 | Round 2 | Round 3 |
+| -------------------------- | :-----: | :-----: | :-----: |
+| `Goblet squat`             |   21    |   21    |   18    |
+| `Mtn climber`              |   18    |   20    |   20    |
+| `Single-arm dumbell swing` |   14    |   14    |   14    |
+| `T-pushup`                 |   15    |   14    |   15    |
+| `Split jump`               |   13    |   10    |    8    |
+| `Dumbbell row`             |   30    |   30    |   30    |
+| `Dumbbell side lunge`      |   20    |   20    |   20    |
+| `Pushup position row`      |   10    |   13    |   15    |
+| `Dumbbell lunge + rotate`  |   15    |   16    |   13    |
+| `Dumbbell push press`      |   15    |   11    |   10    |
 
 
 ### 2/14
@@ -1123,12 +1191,12 @@ _3 rounds for time_:
 20 box jumps (scaled to step ups)
 ```
 
-| Round | Split |
-|:---:|---|
-| **1** | `12:30.37` |
-| **2** | `16:04.47` |
-| **3** | `17:21.82` |
-| **Total** | `45:57.35`|
+|   Round   | Split      |
+| :-------: | ---------- |
+|   **1**   | `12:30.37` |
+|   **2**   | `16:04.47` |
+|   **3**   | `17:21.82` |
+| **Total** | `45:57.35` |
 
 **Notes:**
 Definitely the hardest workout I've done so far. I was incredibly hesitant to start because I didn't want to actually do the work, but now that I did it I'm so thankful that I did.
@@ -1212,9 +1280,9 @@ _*PR'ed Cindy.*_ (1st time doing it so expected) She felt good; completed 8 reps
 
 **WOD: Find the Gormy.** 5 rounds of
 
-  * 20 second back plank
-  * AMRAP crunches (30 reps, each round)
-  * **Note(s):** Felt good; definitely going to feel it in my stomach tomorrow.
+* 20 second back plank
+* AMRAP crunches (30 reps, each round)
+    * **Note(s):** Felt good; definitely going to feel it in my stomach tomorrow.
 
 ### 1/24
 
