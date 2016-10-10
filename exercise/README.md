@@ -4,6 +4,32 @@
 
 ## October
 
+### 10/10
+
+**[Warmup Run:](https://runkeeper.com/user/ritcheyer/activity/878410738)** 1.04 miles in 11:14
+
+**["Bad Karma"](https://runkeeper.com/user/ritcheyer/activity/878425174)**
+
+```
+25 Dumbbell Curls / 10 Kettlebell Swings (30.0 lbs / 53 lbs)
+20 Dumbbell Curls / 20 Kettlebell Swings (25.0 lbs / 35 lbs)
+15 Dumbbell Curls / 30 Kettlebell Swings (22.5 lbs / 35 lbs)
+10 Dumbbell Curls / 40 Kettlebell Swings (22.5 lbs / 35 lbs)
+ 5 Dumbbell Curls / 50 Kettlebell Swings (22.5 lbs / 35 lbs)
+```
+Total Time: `21:06`
+
+### 10/7
+
+**[Warmup Run:](https://runkeeper.com/user/ritcheyer/activity/876770516)** 1.03 miles in 11:23
+
+**[50-40-30-20-10 reps for time of:](https://runkeeper.com/user/ritcheyer/activity/876775722)**
+```
+double unders (2x single unders)
+sit-ups
+```
+Total time: `18:46`
+
 ### 10/5
 
 **[Warmup Run](https://runkeeper.com/user/ritcheyer/activity/875769672)**: 0.96 miles in 10:17
