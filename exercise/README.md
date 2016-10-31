@@ -4,6 +4,30 @@
 
 ## October
 
+### 10/31
+
+**[Warmup Run:](https://runkeeper.com/user/ritcheyer/activity/889017691)** .89 miles in 9:43
+
+**[5 Rounds of:](https://runkeeper.com/user/ritcheyer/activity/889026532)**
+
+```
+7 burpees
+14 push-ups (modified to knees)
+21 sit-ups
+```
+
+| Round |     Time |
+| :---: | -------: |
+|   1   | `2:46.2` |
+|   2   | `4:23.8` |
+|   3   | `5:05.1` |
+|   4   | `4:52.1` |
+|   5   | `3:43.8` |
+
+Total Time: `21:00`
+
+
+
 ### 10/10
 
 **[Warmup Run:](https://runkeeper.com/user/ritcheyer/activity/878410738)** 1.04 miles in 11:14
