@@ -1,6 +1,31 @@
 # Year of Exercise
 
+## November
 
+### 11/7
+
+**[Warmup Run](https://runkeeper.com/user/ritcheyer/activity/892579665):** .98 miles in 11:13
+
+**[10-9-8-7-6-5-4-3-2-1](https://runkeeper.com/user/ritcheyer/activity/892587027) of:**
+
+```
+Sit-ups
+Box jumps @ 28(?) (modified to step ups)
+Weighted squats (50-40-40-40-35-35-35-40-45-50)
+100m run
+```
+
+### 11/3
+
+**[Jogging](https://runkeeper.com/user/ritcheyer/activity/890634027):** 2.12 miles in 24:26
+
+**[4 rounds of](https://runkeeper.com/user/ritcheyer/activity/890639454)**:
+
+```plaintext
+15 kettlebell swings @ 53 lbs
+10 push-ups (from knees)
+5 pull-ups (band-assisted)
+```
 
 ## October
 
