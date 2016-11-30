@@ -2,6 +2,42 @@
 
 ## November
 
+### 11/28
+
+**[Warmup Run:](https://runkeeper.com/user/ritcheyer/activity/901489733)** 1.00 @ 11:47
+
+**[5 rounds](https://runkeeper.com/user/ritcheyer/activity/901493656) of:**
+
+```
+30 seconds of burpees
+30 seconds rest
+30 seconds 45-lb dumbbell thrusters
+30 seconds rest
+```
+
+| Exercise             |  1   |  2   |  3   |  4   |  5   |
+| -------------------- | :--: | :--: | :--: | :--: | :--: |
+| Burpees              |  6   |  6   |  5   |  4   |  4   |
+| 45-lb Dumbbell Press |  6   |  6   |  5   |  6   |  6   |
+
+**Total reps:** `90`
+
+### 11/11
+
+**[WOD:](https://runkeeper.com/user/ritcheyer/activity/894093056)**
+
+```
+800m run
+
+20 double unders / 60 single unders
+40 air squats
+60 sit-ups
+40 push-ups
+20 pull-ups
+
+600m run
+```
+
 ### 11/7
 
 **[Warmup Run](https://runkeeper.com/user/ritcheyer/activity/892579665):** .98 miles in 11:13
