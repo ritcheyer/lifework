@@ -1,5 +1,22 @@
 # 2017 WODs
 
+## February
+
+### 2/21
+
+**[Helen for time](https://runkeeper.com/user/ritcheyer/activity/917273244)**
+
+```
+3 rounds of
+- 400m run
+- 21 kettlebell swings @ 35 lbs
+- 12 ring rows
+```
+
+**Total time:** `14:34`
+
+This was the first time working out at [CrossFit Roseville](http://rosevillecrossfit.com/), and it felt great. Good spot, good community, good coaches.
+
 ## January
 
 ### 1/18
