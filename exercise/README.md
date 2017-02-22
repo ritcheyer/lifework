@@ -11,6 +11,7 @@ sled push for 50m
 10 pushups
 15 air squats
 ```
+Completed 5 rounds
 
 ### 2/21
 
