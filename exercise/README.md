@@ -2,9 +2,19 @@
 
 ## February
 
+### 2/22
+
+**[10 min AMRAP]() of:**
+
+```
+sled push for 50m
+10 pushups
+15 air squats
+```
+
 ### 2/21
 
-**[Helen for time](https://runkeeper.com/user/ritcheyer/activity/917273244)**
+**[Helen for time](https://runkeeper.com/user/ritcheyer/activity/937840222)**
 
 ```
 3 rounds of
