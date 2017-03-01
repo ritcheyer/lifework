@@ -30,19 +30,26 @@ Completed 73 wall balls, 5 200m rows
 ## February
 
 ### 2/27
-
 15 minute AMRAP
 
 ```
 5 manmakers w/20lbs dumbbells
 20 sit ups
 ```
-
 Completed: 95 total reps (5 reps shy of 4 rounds).
 
-### 2/21
+### 2/22
+**[10 min AMRAP]() of:**
 
-**[Helen for time](https://runkeeper.com/user/ritcheyer/activity/917273244)**
+```
+sled push for 50m
+10 pushups
+15 air squats
+```
+Completed 5 rounds
+
+### 2/21
+**[Helen for time](https://runkeeper.com/user/ritcheyer/activity/937840222)**
 
 ```
 3 rounds of
