@@ -1,6 +1,120 @@
 # 2017 WODs
 
+## April
+
+### 4/7
+
+**22 minute AMRAP of:**
+
+```
+20
+   Box jump overs
+   Dumbbell thrusters (@ 30lbs)
+   Kettlebell goblet squats (1 pood kb)
+   Dumbbell rows (@ 30lbs)
+   Burpees
+18 ^^
+16 ^^
+...
+...
+...
+2 ^^
+```
+
+rep count: `267` (3 reps shy of completing the round of 16).
+
+### 4/5
+
+**3 rounds of**
+
+Setup:
+
+> ½Tabata @ each station
+>
+> ½ Tabata is 20s on 10s off
+>
+> 4 rounds @ each station before moving on
+
+```
+Calorie row or bike
+double KB sumo deadlift
+pushup
+toes-to-bar or knee raises
+```
+
+**Notes:**
+
+* Rowed for rounds 1 and 2; Biked for 3 and 4
+* Knee raises for all rounds
+
+### 4/3
+
+Fight Gone Bad
+
+**Three rounds of:**
+
+```
+Wall-ball, 20lb ball, 10 ft target (Reps)
+Sumo deadlift high-pull, 75lbs (Reps)
+Box Jump, 20" box (Reps)
+Push-press, 75lbs (Reps)
+Row (Calories)
+```
+
+rep count: `203`
+
 ## March
+
+### 3/20
+
+Warmup:
+
+```
+7 minute AMRAP of:
+ - barbell thrusters (light weight, working on technique)
+ - ring rows
+ - burpees over box
+```
+
+Technique:
+```
+10 minutes of back squat technique, incrementally getting heavier. Finished @ 145lbs
+```
+
+WOD:
+```
+5 rounds of:
+ - 7 thrusters @ 45 lbs (again, just working on technique)
+ - 7 ring rows
+ - 7 burpees
+```
+
+This WOD was challenging because thrusters are the "highest output movement" in CrossFit. That paired up with burpees which is the "furthest travel of the human body" in CrossFit made for a killer workout. Ring rows were there for resting, but still worked my Scaps really well.
+
+### 3/8
+
+**Warmup:**
+
+```
+3 rounds of:
+ - 50m sled push (no weight)
+ - 5 Standing kettlebell rows (35lbs)
+ - 5 burpees
+```
+
+*WOD:*
+```
+12 min AMRAP of:
+ - 10 SHDP (2 rounds @ 95lbs, 2 rounds @ 75lbs)
+ - 10 "See the light" sit-ups
+ - 200m run
+```
+### 3/7
+### 3/6
+WOD 17.2
+### 3/3
+
+### 3/2
 
 ### 3/1
 
