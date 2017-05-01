@@ -1,6 +1,136 @@
 # 2017 WODs
 
+## May
+
+### 5/1
+
+**5 minute AMRAP of:**
+
+```
+200m run
+15 wall balls
+10 toes to bar
+```
+
+1 minute rest
+
+**5 minute AMRAP of:**
+
+```
+10 burpees
+100m sprint
+```
+
+1 minute rest
+
+**5 minute AMRAP of:**
+
+```
+10 dumbbell box step ups (@35lbs)
+10 dumbbell push press (@35lbs)
+200m run
+```
+
+1 minute rest
+
+**5 minute AMRAP of:**
+
+```
+100m sprint
+10 pull-ups
+```
+
+1 minute rest
+
+**Core work (3 rounds of):**
+
+```
+20s hollow hold
+15 abmat situps
+10 russian twist
+5 v-ups
+```
+
+
+
 ## April
+
+### 4/21
+
+**28 minute timecap:**
+
+```
+800m run / 1000m row
+30 kettlebell SDHP
+30 dumbbell push press
+30 box jumps
+30 toes to bar
+30 medicine ball cleans
+
+400m run / 500m row
+20 kettlebell SDHP
+20 dumbbell push press
+20 box jumps
+20 toes to bar
+20 medicine ball cleans
+
+200m run / 100m row
+10 kettlebell SDHP
+10 dumbbell push press
+10 box jumps
+10 toes to bar
+10 medicine ball cleans
+
+DONE.
+```
+
+### 4/14
+
+**5 rounds of 4 minute AMRAP:**
+
+```
+5 dumbbell squat cleans (heavy!)
+10 push-ups
+15 calorie row
+20 wall ball
+25 abmat sit-ups
+```
+
+2 minute rest between rounds
+
+**Core work:**
+
+3 rounds of
+
+```
+20 flutter kicks
+10 russian twist
+ 5 v ups
+```
+
+### 4/10
+
+**12 minute AMRAP of:**
+
+```
+5 ring-rows / strict pull-ups
+10 push-ups
+20 doublt kettlebell lunges
+40 double unders
+```
+
+3 minute rest
+
+**12 minute AMRAP of:**
+
+```
+5 burpees
+10 box jumps
+20 wall balls
+40 double unders
+```
+
+3 minute rest
 
 ### 4/7
 
