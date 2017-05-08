@@ -2,6 +2,64 @@
 
 ## May
 
+### 5/8
+
+**4 Rounds of 4 minute AMRAP of:**
+
+```
+30 dumbbell thrusters
+20 russian kettlebell swings
+10 burpees
+```
+
+Rest 4 minutes between each round. During the rest period, run 400m.
+
+**NOTE:** I started the WOD with 25lb dumbbells but that quickly became too much so I droped it to 20lb, then 15lb..
+
+**Core work:**
+
+3 rounds of:
+
+```
+20 abmat sit-ups
+15 russian twists
+10 hollow rocks
+ 5 v-ups
+```
+
+### 5/7
+
+```
+Push-ups
+Squats
+Sit-ups
+Plank
+```
+
+|          | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     |
+| -------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| Push-ups | `10`  | `10`  | `10`  | `8`   | `8`   | `8`   | `8`   | `6`   |
+| Squats   | `10`  | `10`  | `10`  | `8`   | `8`   | `8`   | `8`   | `6`   |
+| Sit-ups  | `8`   | `6`   | `6`   | `4`   | `4`   | `4`   | `2`   | `2`   |
+| Plank    | `20s` | `20s` | `20s` | `20s` | `30s` | `30s` | `30s` | `40s` |
+
+Total rep count: `212`
+
+### 5/5
+
+**27-21-18-15-12-9-6-3**
+
+For time with a 25 minute time cap
+
+```
+Dumbbell Squat Cleans
+Ring-row or strict pull-up
+Push-ups
+Toes-to-bar
+```
+
+**NOTE:** I was time-capped after completing the round of 18.
+
 ### 5/1
 
 **5 minute AMRAP of:**
