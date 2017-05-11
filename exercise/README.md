@@ -2,6 +2,26 @@
 
 ## May
 
+### 5/10
+
+**5 rounds (20 minute time cap):**
+
+```
+10 push-ups
+ 5 ring-row
+10 goblet squat
+ 5 ring-row
+10 box jump (@ 20")
+ 5 ring-row
+10 toes-2-bar (scaled to knee raises)
+```
+
+**NOTE:** Completed the last set of ring rows for round 5.
+
+**PR DAY: ** was the first time completing an unbroken set of knee raises. #strengf #gainz
+
+
+
 ### 5/8
 
 **4 Rounds of 4 minute AMRAP of:**
