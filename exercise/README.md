@@ -2,6 +2,48 @@
 
 ## May
 
+### 5/12
+
+**4 Stations (5 min cap):**
+
+3 minutes Rest Between Stations
+
+_Station 1:_
+
+```
+100 Wall balls (14lb ball)
+```
+
+**NOTE:** I was time-capped at 71 reps
+
+_Station 2:_
+
+```
+30 Dumbbell Hang Clean & Jerk (Go Heavy) - 30lb
+```
+
+**NOTE:** I was able to complete this round
+
+_Station 3:_
+
+```
+12-9-6-3 of:
+- calorie row
+- burpees
+```
+
+**NOTE:** I was time-capped after the round of 6.
+
+_Station 4:_
+
+```
+24-18-12-6
+- Russian kettlebell swing @ 35lbs
+- Abmat Sit-ups
+```
+
+**NOTE:** I was time-capped after the round of 12.
+
 ### 5/11
 
 **4 rounds of Push-ups, Sit-ups, Squats, Plank:**
