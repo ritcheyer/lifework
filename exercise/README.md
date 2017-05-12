@@ -2,6 +2,18 @@
 
 ## May
 
+### 5/11
+
+**4 rounds of Push-ups, Sit-ups, Squats, Plank:**
+
+|             |       1        |       2       |      3       |      4       |     Totals     |
+| ----------: | :------------: | :-----------: | :----------: | :----------: | :------------: |
+|   **Squat** |      `12`      |     `10`      |     `10`     |     `8`      |      `40`      |
+| **Push-up** |      `12`      |     `10`      |     `10`     |     `8`      |      `40`      |
+|   **Plank** |     `40s`      |     `40s`     |    `45s`     |    `45s`     |     `2:40`     |
+|  **Sit-up** | `10` `10` `12` | `8` `10` `10` | `8` `8` `10` | `6` `8` `8`  |     `108`      |
+|   **Total** |  `44` + `40s`  | `48` + `40s`  | `46` + `45s` | `38` + `45s` | `188` + `2:40` |
+
 ### 5/10
 
 **5 rounds (20 minute time cap):**
@@ -19,8 +31,6 @@
 **NOTE:** Completed the last set of ring rows for round 5.
 
 **PR DAY: ** was the first time completing an unbroken set of knee raises. #strengf #gainz
-
-
 
 ### 5/8
 
