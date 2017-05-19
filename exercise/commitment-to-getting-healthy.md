@@ -5,13 +5,13 @@ Since starting on this commitment to getting healthy, several things have change
  - Moved to Lincoln, CA
  - More discipline required during the workday given sports and other such things in the evenings
 
-Items on the above list I believe to have tackled and been successful on are:
+**Where I have been successful:**
  - [x] Excercising 3x/wk
 
-Items I am in process of working out are:
+**What I am in process of:**
  - [x] Waking up at 7am on the days I exercise. Working on the other days still.
 
-Items I am still struggling with:
+**Continued struggles:**
  - [ ] Late night snacking
  - [ ] Portion control
  - [ ] Bed time habits
