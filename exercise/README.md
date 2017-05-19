@@ -2,6 +2,37 @@
 
 ## May
 
+### 5/19
+
+**27-21-15-9 (30 min cap):**
+
+```
+WallBall (16lb)
+Russian KB Swing (35lb)
+Box Jump (20")
+DB Push Press (30lb)
+Weighted Ab-Mat Sit-Up (20lb)
+```
+
+**NOTES:**
+
+* Completed this in 25 minutes and change. First time in awhile I've beaten the time-cap. Things are starting to work well.
+* Completed 15 wall balls my first round - this is the largest set of unbroken wall balls I have done to date.
+* I'm starting to find a lot of success in the current weight scheme and am able to hold my form throughout the workout. It's probably time to start moving to heavier weights. Too much success means I need to find failure again.
+
+### 5/17
+
+**20 Min EMOM:**
+
+```
+Calorie Bike, or Row
+Push-Up (scaled to angled with a 20" box)
+KB Sumo Deadlift (35lb)
+Toes-2-Bar (scaled to knee raises)
+```
+
+**NOTE:** knee raises are coming easier and easier, but still the grip strength fails very fast. Need to work on this.
+
 ### 5/15
 
 Today’s WOD:
