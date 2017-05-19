@@ -1,5 +1,5 @@
 
-**[2017-05-19 Update]**
+# [2017-05-19 Update]
 Since starting on this commitment to getting healthy, several things have changed in my life:
  - Sammy is starting to sleep through the night more frequently
  - Moved to Lincoln, CA
@@ -19,6 +19,8 @@ Items I am still struggling with:
 I'm seeing progress in each of these areas, but still need to pursue them.
 
 ---
+
+# 2016-09-12
 
 Below is a note I sent to the guys in our #humblebragging channel in Slack. Fueled by a determination to get healthy. Outlined below are my top 5 struggles (as of 2016-09-12) and what I'll be doing to resolve them.
 
