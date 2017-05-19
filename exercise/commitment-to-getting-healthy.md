@@ -25,3 +25,22 @@ While I know that each and every one of these can be easier for other people to 
 All of you guys are busy with your own life/exercise goals, so I don't expect anything from you, but if you feel so inclined to challenge me in any way, I will answer honestly and forthrightly. If I'm slacking, call me out. I will be 100% honest.
 
 Onward.
+
+**[2017-05-19 Update]**
+Since starting on this commitment to getting healthy, several things have changed in my life:
+ - Sammy is starting to sleep through the night more frequently
+ - Moved to Lincoln, CA
+ - More discipline required during the workday given sports and other such things in the evenings
+
+Items on the above list I believe to have tackled and been successful on are:
+ - [x] Excercising 3x/wk
+
+Items I am in process of working out are:
+ - [x] Waking up at 7am on the days I exercise. Working on the other days still.
+
+Items I am still struggling with:
+ - [ ] Late night snacking
+ - [ ] Portion control
+ - [ ] Bed time habits
+
+I'm seeing progress in each of these areas, but still need to pursue them.
