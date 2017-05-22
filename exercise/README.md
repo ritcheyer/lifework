@@ -2,6 +2,17 @@
 
 ## May
 
+### 5/22
+**10-9-8-7-6-5-4-3-2-1 (22 min cap):**
+
+* WallBall (16lb ball to a 10' target)
+* Box Jump (20")
+* KB Swing (53lb - American-style above-the-head)
+* DB Push Press (30lb)
+* Strict Pull-Up (scaled to ring rows)
+* Calorie Row
+
+**NOTE:** i was time-capped after kb swing in round 5 but kept going. Was time-capped again by the end-of-class bell halfway through the round of 3. Ended up with a time of 31:44.
 ### 5/19
 
 **27-21-15-9 (30 min cap):**
