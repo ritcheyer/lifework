@@ -2,7 +2,49 @@
 
 ## May
 
+### 5/26
+
+**30 Min EMOM:**
+
+```
+Calorie Row 
+DB Push Press (30lbs)
+Ring Row, or Pull-Up
+Dips
+KB Deadlift (35lb x 2)
+```
+
+50s work, 10s rest; 1 min rest between rounds for 5 rounds
+
+**NOTES / GOALS:** 
+
+- [x] Calorie row goal: stay between 1:55-1:58/500m for the duration of the round
+- [x] 10 reps of each movement before a break (if necessary)
+
+### 5/24
+
+**12 min AMRAP:**
+
+```
+7 Burpee
+7 DB Squat Clean (Heavy)
+7 “See the Light” Sit-Up
+```
+
+**NOTES / GOALS:** completed 3 reps of burpees of the 5th round.
+
+**12 min AMRAP:**
+
+```
+10 Pull-Up, or Ring Row
+20 KB Lunges (25lbs)
+30 Double unders
+```
+
+**NOTES / GOALS:** Completed 2 complete rounds, then worked on double unders for another 4 minutes.
+
 ### 5/22
+
 **10-9-8-7-6-5-4-3-2-1 (22 min cap):**
 
 ```
@@ -14,7 +56,7 @@
 - Calorie Row
 ```
 
-**NOTE:** i was time-capped after kb swing in round 5 but kept going. Was time-capped again by the end-of-class bell halfway through the round of 3. Ended up with a time of 31:44.
+**NOTES / GOALS:** i was time-capped after kb swing in round 5 but kept going. Was time-capped again by the end-of-class bell halfway through the round of 3. Ended up with a time of 31:44.
 ### 5/19
 
 **27-21-15-9 (30 min cap):**
@@ -27,7 +69,7 @@ DB Push Press (30lb)
 Weighted Ab-Mat Sit-Up (20lb)
 ```
 
-**NOTES:**
+**NOTES / GOALS:**
 
 * Completed this in 25 minutes and change. First time in awhile I've beaten the time-cap. Things are starting to work well.
 * Completed 15 wall balls my first round - this is the largest set of unbroken wall balls I have done to date.
@@ -44,7 +86,7 @@ KB Sumo Deadlift (35lb)
 Toes-2-Bar (scaled to knee raises)
 ```
 
-**NOTE:** knee raises are coming easier and easier, but still the grip strength fails very fast. Need to work on this.
+**NOTES / GOALS:** knee raises are coming easier and easier, but still the grip strength fails very fast. Need to work on this.
 
 ### 5/15
 
@@ -59,7 +101,7 @@ WallBall (16lb)
 Burpee
 ```
 
-**NOTE:** I made it 4 reps into the round of 20.
+**NOTES / GOALS:** I made it 4 reps into the round of 20.
 
 _Station 2 is `10-12-14-16…` of:_
 
@@ -69,7 +111,7 @@ Single-Arm DB Overhead Lunge (20lb)
 Pull-ups (scaled to ring rows)
 ```
 
-**NOTE:** I made it 1 rep into the round of 14 of Single-arm DB overhead lunges
+**NOTES / GOALS:** I made it 1 rep into the round of 14 of Single-arm DB overhead lunges
 
 _Station 3 is `5-10-15-20-25…` of_:
 
@@ -78,7 +120,7 @@ Box Jump (20" box)
 "See the Light" Sit-Up
 ```
 
-**NOTE:** I completed the round of 15.
+**NOTES / GOALS:** I completed the round of 15.
 
 `90s` rest between stations
 
@@ -94,7 +136,7 @@ _Station 1:_
 100 Wall balls (14lb ball)
 ```
 
-**NOTE:** I was time-capped at 71 reps
+**NOTES / GOALS:** I was time-capped at 71 reps
 
 _Station 2:_
 
@@ -102,7 +144,7 @@ _Station 2:_
 30 Dumbbell Hang Clean & Jerk (Go Heavy) - 30lb
 ```
 
-**NOTE:** I was able to complete this round
+**NOTES / GOALS:** I was able to complete this round
 
 _Station 3:_
 
@@ -112,7 +154,7 @@ _Station 3:_
 - burpees
 ```
 
-**NOTE:** I was time-capped after the round of 6.
+**NOTES / GOALS:** I was time-capped after the round of 6.
 
 _Station 4:_
 
@@ -122,7 +164,7 @@ _Station 4:_
 - Abmat Sit-ups
 ```
 
-**NOTE:** I was time-capped after the round of 12.
+**NOTES / GOALS:** I was time-capped after the round of 12.
 
 ### 5/11
 
@@ -150,7 +192,7 @@ _Station 4:_
 10 toes-2-bar (scaled to knee raises)
 ```
 
-**NOTE:** Completed the last set of ring rows for round 5.
+**NOTES / GOALS:** Completed the last set of ring rows for round 5.
 
 **PR DAY: ** was the first time completing an unbroken set of knee raises. #strengf #gainz
 
