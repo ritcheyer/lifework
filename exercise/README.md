@@ -1,6 +1,75 @@
 # 2017 WODs
 
+## June
+
+### 6/5
+
+**30 Min AMRAP:**
+
+```
+200m Run
+5 Pull-Up (jumping)
+10 Push-Up
+15 Air Squat
+
+200m Run
+21 Russian KB Swing (53lbs)
+12 Pull-Up (jumping)
+
+200m Run
+50M Sled Push (w/2 45lb plates)
+15 Burpees
+50 Abmat Sit-Up
+```
+
+### 6/2
+
+**10 min AMRAP:**
+
+```
+20 WallBalls
+10 Ring Row, or Pull-Up
+5 Burpee Box Jump Over
+```
+
+2 mins rest
+
+**10 min AMRAP:**
+
+```
+200m Run
+20 KB Swing
+20 DB Push Press
+20 Abmat Sit-Up
+20 KB Deadlift
+```
+
+**NOTE:**
+
+1. AMRAP 1: completed 2 rounds + 3 wallballs
+2. AMRAP 2: 1 round + and 3 reps into sit-ups on round 2
+
 ## May
+
+### 5/31
+
+n/a (out of town)
+
+### 5/29
+
+**Memorial Day Murph**
+
+```
+1 mile run
+100 pull-ups
+200 push-ups
+300 air squats
+1 mile run
+```
+
+Completed in `81:08`
+
+**PR DAY:** this is a PR on last year's time of 84 mins and change. Given everything that's happened since last year, I'll take this PR.
 
 ### 5/26
 
