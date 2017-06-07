@@ -2,6 +2,20 @@
 
 ## June
 
+### 6/7
+
+**30 min EMOM:**
+
+```
+Calorie Row
+Wall ball
+Rest
+```
+
+**NOTE:** the goal here was to come up with a number that you could hit for each round. I chose 15 calories and started with 15 wall balls. Halfway through, I went to 10 wall balls. 
+
+
+
 ### 6/5
 
 **30 Min AMRAP:**
