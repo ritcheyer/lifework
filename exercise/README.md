@@ -2,6 +2,104 @@
 
 ## June
 
+### 6/21
+
+**Core work:**
+
+```
+15 v-ups / toe touches
+100 flutter kicks (sets of 25)
+50 abmat sit-ups
+```
+
+**For time (15 min cap):**
+
+```
+100 WallBalls*
+```
+
+*10 burpees every rest
+
+**For time (15 min cap):**
+```
+30-25-20-15-10-5 of:
+Double unders (scaled to 3x single unders)
+Russian KB Swing @ 53lbs
+```
+
+### 6/16
+
+**10 rounds of:**
+
+```
+9 dumbbell thrusters
+35 double unders
+```
+
+**NOTES:**
+
+* This is a dumbbell version of the [17.5 WOD](https://games.crossfit.com/workouts/open/2017/5).
+* I started with 35lbs dumbbells, but scaled down to 25lbs as I still have some lingering shoulder strain I am being tender with.
+* Scaled Double Unders to Single Unders, same rep scheme (same as 17.5's scaled recommendation)
+* Completed in `17.15` compared to my [17.5](https://games.crossfit.com/athlete/1080095) time of `18:33`
+
+### 6/14
+
+**4 Rounds, 1 min per station:**
+
+```
+DB Hang Clean & Jerk
+KB Box Step-Up
+Push-Up
+Weighted Ab-mat Sit-Up
+Rest
+```
+
+**NOTES:** goal is to complete the same number of reps for ever round.
+
+### 6/12
+
+**4, 8, 12 min AMRAP:**
+
+```
+15 Cal Row, or bike
+20 WallBall @ 20lbs
+15 Box Jump
+20 American KB Swing @ 35lbs
+15 Burpee
+20 Strict Pull-Up, or Ring Row
+15 DB Push Press @ 30lbs
+```
+
+**NOTES:**
+
+All rounds started at Kettlebell swing
+
+* **4 min:** Completed 12 reps of pull-ups/ring rows
+* **8 min:** Completed wallballs (i had about 30s left, and should've completed some box jumps, but thought wallballs was the end of the round
+* **12 min:** Completed 5 reps of burpees of round 2
+
+### 6/10
+
+Tough Mudder Obstacle Course
+
+**Time:** `5:37:39`
+
+**Distance:** `10.2` miles
+
+### 6/9
+
+**15 min AMRAP**
+
+```
+35 kettlebell deadlift @ 52lbs x 2
+35 wall ball @ 20lbs
+35 calorie row
+35 dumbbell push press @ 30lbs x 2
+```
+
+**NOTE:** 1 complete round then 25 deadlifts before my right shoulder started to fatigue to the point of failure/soreness.
+
 ### 6/7
 
 **30 min EMOM:**
