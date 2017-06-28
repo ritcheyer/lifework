@@ -2,6 +2,58 @@
 
 ## June
 
+### 6/28
+
+6/28/17 WOD:
+
+**Warmup:**
+
+Foundational sequence (lower back warmup)
+
+**1/2 Tabata at each station:**
+
+3 Rounds / 2 mins rest between rounds
+
+```
+Calorie Row
+Push-Up
+Double KB Sumo Deadlift (53lb kbs x 2)
+"See The Light" Sit-Up (10lb plate)
+```
+
+400m run as a nightcap
+
+**NOTE:** scaled push-ups to incline pushups from a 24" box.
+
+### 6/26
+
+**7 min AMRAP:**
+5-10-15-20-25…
+
+```
+Dumbbell Thruster
+Calorie Row
+```
+
+**7 min AMRAP:**
+5-10-15-20-25…
+
+```
+Russian KB Swing
+Ab-mat Sit-Up
+```
+
+**7 min AMRAP:**
+5-10-15-20-25…
+
+```
+Air Squat
+Burpee
+Pull-Up
+```
+
+**Notes:** All AMPRAPs done in the following rep scheme `5-10-15-20-25...`.
+
 ### 6/21
 
 **Core work:**
