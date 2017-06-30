@@ -2,6 +2,32 @@
 
 ## June
 
+### 6/30
+
+**For Time (22 Min Cap):**
+```
+20 Box Jump Over
+20 DB Push Press
+20 Goblet Squat
+20 DB Bent Over Row
+20 Burpee
+18 Box Jump Over
+18 DB Push Press
+18 Goblet Squat
+18 DB Bent Over Row
+18 Burpee
+16
+...
+2
+```
+
+**NOTES:**
+
+* I made completed 2 burpees in the round of 16
+* ~24" box (was using a giant truck tire)
+* 35lb dumbbells (for push press and bent over row)
+* 35lb kettlebell (for goblet squat)
+
 ### 6/28
 
 6/28/17 WOD:
@@ -13,7 +39,6 @@ Foundational sequence (lower back warmup)
 **1/2 Tabata at each station:**
 
 3 Rounds / 2 mins rest between rounds
-
 ```
 Calorie Row
 Push-Up
@@ -686,9 +711,9 @@ Warmup:
 
 ```
 7 minute AMRAP of:
- - barbell thrusters (light weight, working on technique)
- - ring rows
- - burpees over box
+- barbell thrusters (light weight, working on technique)
+- ring rows
+- burpees over box
 ```
 
 Technique:
@@ -699,9 +724,9 @@ Technique:
 WOD:
 ```
 5 rounds of:
- - 7 thrusters @ 45 lbs (again, just working on technique)
- - 7 ring rows
- - 7 burpees
+- 7 thrusters @ 45 lbs (again, just working on technique)
+- 7 ring rows
+- 7 burpees
 ```
 
 This WOD was challenging because thrusters are the "highest output movement" in CrossFit. That paired up with burpees which is the "furthest travel of the human body" in CrossFit made for a killer workout. Ring rows were there for resting, but still worked my Scaps really well.
@@ -712,17 +737,17 @@ This WOD was challenging because thrusters are the "highest output movement" in 
 
 ```
 3 rounds of:
- - 50m sled push (no weight)
- - 5 Standing kettlebell rows (35lbs)
- - 5 burpees
+- 50m sled push (no weight)
+- 5 Standing kettlebell rows (35lbs)
+- 5 burpees
 ```
 
 *WOD:*
 ```
 12 min AMRAP of:
- - 10 SHDP (2 rounds @ 95lbs, 2 rounds @ 75lbs)
- - 10 "See the light" sit-ups
- - 200m run
+- 10 SHDP (2 rounds @ 95lbs, 2 rounds @ 75lbs)
+- 10 "See the light" sit-ups
+- 200m run
 ```
 ### 3/7
 ### 3/6
@@ -891,3 +916,7 @@ Completed in `6` rounds of `25`, averaging `1:30` per round.
 **[T25 - Alpha Cardio](https://runkeeper.com/user/ritcheyer/activity/914640271)** - 25 mins
 
 **[Running](https://runkeeper.com/user/ritcheyer/activity/914647578)**: 1.17 miles in 14:45
+
+```
+
+```
