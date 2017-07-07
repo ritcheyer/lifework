@@ -1,5 +1,68 @@
 # 2017 WODs
 
+## July
+
+### 7/7
+
+**Warmup:** Wallball Volleyball. We lost, 5-0. 
+
+**Rules:**
+1. break up into even teams
+2. grab the lightest wallball (6lbs in our case)
+3. Do a wallball squat, then throw ball over wall (or in our case, the whiteboard)
+4. Once the ball goes over the wall, the thrower does a burpee
+5. If ball touches ground, receiving team does 3 burpees
+
+**5 Rounds of 4 min AMRAP** (2min rest between rounds):
+```
+5 DB Squat Clean (30lb x 2)
+10 Push-Up (scaled to 20" box)
+15 Cal Row (strive for 1 cal/pull)
+20 WallBall (20lb)
+25 Abmat Sit-Up
+```
+If time is called in the middle of a set, you start at the beginning of that set (e.g. if time called after 17 wall balls on Round 3, you start Round 3 with 0 wall balls).
+
+**NOTE:** I was able to basically complete 4/5 exercises a round. I am very slow on situps for some reason.
+
+### 7/5
+
+**3 rounds @ 2 minutes each station:**
+
+```
+Pull-Up (jumping + negative holds)
+Double Kettle Bell Lunges (2x @ 35kb)
+MedBall Cleans (20lb wall ball)
+DB Clean & Jerk (2x @ 30lb)
+Rest
+```
+
+**NOTE:** did larger weights for lunges and C&J today than I have in the past. Impressed myself with my progress
+
+### 7/3
+
+**12 Min AMRAP:**
+
+```
+5 Jumping pull-ups
+10 Push-Up (scaled to incline)
+20 Russian KB Swing (35kbs)
+40 DU (scaled to 120 SU and/or DU Practice for 1:20)
+```
+
+**NOTE:** i still hate double unders, but I want to get them so bad...
+
+**12 Min AMRAP:**
+
+```
+5 Burpee (to a target 6" above your highest reach)
+10 Box Jump (24" tire)
+20 WallBall (16lb)
+40 DU (scaled to 120 SU and/or DU Practice for 1:20)
+```
+
+**NOTE:** i still hate double unders, but I want to get them so bad...
+
 ## June
 
 ### 6/30
