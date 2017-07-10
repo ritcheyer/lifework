@@ -2,6 +2,37 @@
 
 ## July
 
+### 7/10
+
+**Warmup/Core Work:**
+
+Tabata, Alternting
+
+```
+“Dead Bug”
+Arch Rocks
+```
+
+**For Time (14 min cap):**
+
+```
+100 WallBalls
+```
+**NOTE:** I finished with 3 seconds to spare. A burner of a WOD
+
+1 minute of plank every break
+
+**14 minute AMRAP:**
+
+```
+7 DB Strict Press (30lb dumbbells)
+7 Ring Row, or Strict Pull-Up (negative hold)
+7 Push-Up (inclined)
+14 Box Step-Up w/KB (35lb kb, 30" box)
+```
+
+**NOTE:** My plan was to go heavy on the kettle bells and small on the height of the box, but coach said the other way would be better for me. Get a strong posterior chain by lighter weights, bigger box. This exposed a weakness in that I am very uncomfortable stepping up that high with weights using my left leg. 
+
 ### 7/7
 
 **Warmup:** Wallball Volleyball. We lost, 5-0. 
