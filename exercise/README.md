@@ -2,6 +2,49 @@
 
 ## July
 
+### 7/17
+
+**7 Rounds (20 min cap):**
+```
+7 Dumbbell Thruster (Heavy - 35lbs x 2)
+7 "See-The-Light" Sit-Up (10lb plate)
+7 Sumo KB Deadlift (Heavy 53lbs x 2)
+7 Burpee
+7 Pull-Up (scaled to ring row)
+7 Calorie Row, or Bike
+```
+
+**NOTE:** Finished 1 rep of Sumo Deadlift in the 5th round
+
+### 7/14
+
+**For Time (28 min cap):**
+```
+800M Run
+30 KB SDHP
+30 DB Push Press
+30 Box Jump
+30 Toes-2-Bar
+30 MedBall Clean
+
+400M Run
+20 KB SDHP
+20 DB Push Press
+20 Box Jump
+20 Toes-2-Bar
+20 MedBall Clean
+
+200M Run
+10 KB SDHP
+10 DB Push Press
+10 Box Jump
+10 Toes-2-Bar
+10 MedBall Clean
+```
+**NOTE:** Completed 20 box jumps before being time-capped.
+### 7/12
+n/a; stayed home sick
+
 ### 7/10
 
 **Warmup/Core Work:**
