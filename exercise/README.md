@@ -2,6 +2,39 @@
 
 ## July
 
+### 7/21
+
+**10 min AMRAP:**
+```
+20 Dumbbell Clean &amp; Jerk
+30 DB Reverse Lunge
+```
+
+2 minutes rest
+
+**10 min AMRAP:**
+```
+20 WallBall
+30 Dubz (Max 1 minute)
+```
+
+**NOTES:**
+- _Part 1:_ completed 2 rounds and 2 reps into 3rd round.
+- _Part 2:_ completed 3 rounds + 3 wallballs into 4th round.
+
+
+### 7/19
+**24 min AMRAP*:**
+```
+10 Goblet Squat
+10 Side-Plank Reach Through (5 Each Side)
+10 Ring Row, Or Pull-Up
+```
+*Begin with and Every 3 minutes, perform 10 Burpee, or 15 Calorie Bike
+
+**NOTE:** Burpees destroyed my ability to complete rounds. I think I got through 4 complete rounds, and halfway through my 5th.
+
+
 ### 7/17
 
 **7 Rounds (20 min cap):**
