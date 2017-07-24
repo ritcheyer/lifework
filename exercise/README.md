@@ -2,6 +2,50 @@
 
 ## July
 
+### 7/24
+
+3x7 min AMRAPs:
+
+**Station 1:**
+```
+15 DB Thruster (@30lbs)
+15 Ring Row (Or Pull-Ups)
+```
+
+**Station 2:**
+```
+20 DBL KB Deadlift (@35lbs)
+20 Box Jump
+```
+
+**Station 2:**
+```
+30 DU (subbed 3-1 SU)
+20 Push-Up
+10 Calorie Row
+```
+
+*1 min rest between stations
+
+**NOTES:**
+* **Station 1:** completed 2½  rounds
+* **Station 2:** completed 2 rounds
+* **Station 3:** completed 1¾ rounds
+
+I was extremely dehydrated, therefore this was one of the hardest WODs I’ve completed in a long time. I believe that if I were properly hydrated, I could’ve completed an extra ½ round for each station
+
+### 7/23
+
+**20 minute AMRAP:**
+
+```
+10 burpees
+15 kettlebell swings (@35lbs)
+20 abmat sit-ups
+```
+
+**NOTE:** Completed 5 rounds
+
 ### 7/21
 
 **10 min AMRAP:**
