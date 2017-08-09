@@ -1,6 +1,77 @@
 # 2017 WODs
 
+
+## August
+
+### 8/9
+
+**20 Min EMOM:**
+```
+Calorie Bike, or Row
+Push-Up
+KB Sumo Deadlift
+Toes-2-Bar
+```
+**NOTES:** use the first round of each movement to establish a baseline. On rounds 2-5, meet or exceed that baseline. My baseline was as follows:
+
+- `15` cal row
+- `10-15` pushups (elevated on a 20" box)
+- `15` deadlift
+- `7-8` T2B (scaled to chest to bar, last round knees-to-parallel)
+
+
+### 8/8 
+
+1 mile run, 20 burpees every ½ mile
+
+### 8/7
+
+3 x 7 min AMRAPs. 60s rest between AMRAPs.
+
+**7 min AMRAP:**
+```
+5-10-15-20-25…
+WallBall (20lbs)
+Burpee
+```
+
+**7 min AMRAP:**
+```
+10-12-14-16…
+Russian KB Swing (36lbs)
+Single-Arm DB Overhead Lunge (30lbs)
+Pull-Up (scaled to ring rows)
+```
+
+**7 min AMRAP:**
+```
+5-10-15-20-25…
+Box Jump (24")
+“See the Light” Sit-Up (10lb plate)
+```
+**NOTES:**
+
+* **R1:** 10 wallballs into round of 20
+
+* **R2:** 6 OH lunges into round of 14
+
+* **R3:** Completed round of 15
+
 ## July
+
+### 7/26
+
+10 Rounds, 30 Seconds at Each station*:
+
+```
+Calorie Row, or Bike
+Dumbbell Lunges
+Abmat Sit-Up
+Russian KB Swing
+Rest
+```
+
+*5 seconds transition between stations
 
 ### 7/24
 
@@ -1130,6 +1201,10 @@ Completed in `6` rounds of `25`, averaging `1:30` per round.
 **[T25 - Alpha Cardio](https://runkeeper.com/user/ritcheyer/activity/914640271)** - 25 mins
 
 **[Running](https://runkeeper.com/user/ritcheyer/activity/914647578)**: 1.17 miles in 14:45
+
+```
+
+```
 
 ```
 
