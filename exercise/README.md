@@ -3,6 +3,35 @@
 
 ## August
 
+### 8/14
+
+**For Time (12 minute cap):**
+```
+12 Dumbbell Hang Clean & Jerk
+200M Run
+10 Dumbbell Hang Clean & Jerk
+200M Run
+8 Dumbbell Hang Clean & Jerk
+200M Run
+6 Dumbbell Hang Clean & Jerk
+200M Run
+4 Dumbbell Hang Clean & Jerk
+200M Run
+2 Dumbbell Hang Clean & Jerk
+200M Run
+```
+
+**Then (12 min cap):**
+```
+50-40-30-20-10:
+Double unders (or 90s dubz practice)
+Double KB Lunges
+```
+**NOTES:**
+* Completed first set in 11:30; 35lb dumbbells
+* Completed 10 lunges of the set of 40
+* I still stink at double unders. 
+
 ### 8/9
 
 **20 Min EMOM:**
