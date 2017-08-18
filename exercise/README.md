@@ -3,6 +3,47 @@
 
 ## August
 
+### 8/18
+
+**10 min AMRAP:**
+```
+20 Dumbbell Clean & Jerk
+30 DB Reverse Lunge
+```
+**NOTE:** Completed 10 reps of round 3 of C&J
+
+**10 min AMRAP:**
+```
+20 WallBall
+30 Dubz (Max 1 minute)
+```
+**NOTE:** Completed 2½ rounds
+
+Also, first time I got 2 consecutive double unders
+
+**Buyout:**
+```
+260m sled push
+```
+Time to complete: 2:06
+
+
+### 8/16
+
+**3 Rounds for time of:**
+```
+20 KB Swing
+30 Yard Sled Pull
+20 Burpee
+30 Yard Sled Pull
+```
+
+**Buyout:**
+```
+50 DB Squat Clean
+```
+**NOTES:** Time to complete: `22:30`
+
 ### 8/14
 
 **For Time (12 minute cap):**
