@@ -3,6 +3,57 @@
 
 ## August
 
+### 8/25
+
+**30-20-10 (21 min cap):**
+
+```
+Dubz
+KB Deadlift
+Push-Up (working on from ground, but still scaled to incline on a tire)
+Ring Row
+Abmat Sit-Up
+```
+
+**NOTES:**
+
+ - Double under goal of at least 10 per set (the rest being singles)
+- 88lb kettlebell
+- Focusing on pushups from ground, but still ended up scaling to incline on a tire (approx 20" incline)
+
+### 8/23
+
+**20 min AMRAP:**
+
+```
+400m Run
+20 Kettlebell Swings (American)
+10 Sandbag Cleans
+```
+
+**NOTES:**
+
+* Running sucks
+* 53lbs kettlebell swings were American style
+* Sandbag clean was 100lbs
+
+### 8/21
+
+**4 rounds of:**
+
+```
+3 mins of
+  7 dumbbell thrusters
+  7 pull-ups
+  7 burpees
+
+1 min rest
+
+3 mins rowing
+
+1 min rest
+```
+
 ### 8/18
 
 **10 min AMRAP:**
@@ -1271,11 +1322,3 @@ Completed in `6` rounds of `25`, averaging `1:30` per round.
 **[T25 - Alpha Cardio](https://runkeeper.com/user/ritcheyer/activity/914640271)** - 25 mins
 
 **[Running](https://runkeeper.com/user/ritcheyer/activity/914647578)**: 1.17 miles in 14:45
-
-```
-
-```
-
-```
-
-```
