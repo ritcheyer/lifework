@@ -3,6 +3,27 @@
 
 ## August
 
+### 8/28
+
+**6 Rounds (25 min time-cap):**
+
+```
+Row 20 Calories, or Bike 15 Calories
+10 Strict Pull-Up
+25 WallBall
+10 Dips
+```
+
+**NOTES:**
+* Completed: **4 Rounds + 11 rowing calories**.
+* Alternated rounds between rowing and biking
+   * Maintained a 1cal/1pull pace for rowing
+   * Maintained a 23mph bike pace
+* Pull-ups were band-assisted (first time since moving in Feb I’ve done band-assisted pullups)
+* 20lb wall ball
+* Dips were scaled to assisted w/1 foot elevated on a platform, assisting as necessary
+
+
 ### 8/25
 
 **30-20-10 (21 min cap):**
