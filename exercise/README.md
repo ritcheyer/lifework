@@ -1,5 +1,51 @@
 # 2017 WODs
 
+## September
+
+### 9/2
+
+**Part 1**
+
+Pause Front Squat:
+3 sets of 5 reps with 50% using a 7 second pause at the bottom
+
+**High Hang Clean** *:
+
+```
+3 x 3 @ 65% 1RM
+3 x 2 @ 70% 1RM
+3 x 1 @ 75% 1RM
+```
+
+*1 minute rest in-between sets
+
+**Part 2:**
+In Teams of 3:
+
+```
+Row 1500M, or Run 1 Mile
+
+2 Rounds:
+45 Squat Clean @ 60% 1RM
+45 S2OH (Shoulder to overhead)
+
+2 Rounds:
+70 Burpee
+25 Muscle-Up
+
+Row 1500M, or Run 1 Mile
+```
+
+**NOTES:** 
+
+* **Part 1:** `115`lb high hang clean
+* **Part 2:** 
+  * Ran 1200m (800m + 400m)
+  * Completed 2 reps of squat clean for every 5 from the other teammates
+  * Completed 10 S2OH for every 15 from teammates
+  * Completed ⅓ of all burpees (everyone did ⅓)
+  * Completed 5 ring rows + 5 dips in lieu of Muscle-ups
+  * Did not complete WOD in time to start the run
 
 ## August
 
