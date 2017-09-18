@@ -2,6 +2,41 @@
 
 ## September
 
+### 9/18
+
+i did this:
+
+**10 min AMRAP:**
+
+```
+200M Run
+5 Pull-Up
+10 Push-Up
+15 Air Squat
+```
+
+Rest `3 minutes`
+
+**10 min AMRAP:**
+
+```
+200M Run
+21 Russian KB Swing
+12 Pull-Up
+```
+
+Rest `3 minutes`
+
+**10 min AMRAP:**
+
+```
+200M Run
+15 Burpees
+100M Sled Push (2 x 50M, Medium Weight)
+```
+
+**NOTES:** first time back after a long time away stinks. That being said, it felt good to get out there and stretch my back after vacation + dealing with back pain. Thanks to Coach Lauren!
+
 ### 9/2
 
 **Part 1**
@@ -38,8 +73,9 @@ Row 1500M, or Run 1 Mile
 
 **NOTES:** 
 
-* **Part 1:** `115`lb high hang clean
+* **Part 1:** `115`lbs high hang clean
 * **Part 2:** 
+  * Squat cleans at `95`lbs
   * Ran 1200m (800m + 400m)
   * Completed 2 reps of squat clean for every 5 from the other teammates
   * Completed 10 S2OH for every 15 from teammates
