@@ -2,9 +2,19 @@
 
 ## September
 
-### 9/18
+### 9/20
 
-i did this:
+**30 Minute EMOM of:**
+
+```
+Calorie Row
+Wall balls (20lb)
+Rest
+```
+
+**NOTES:** used first round to set a goal: 15 calorie row + 15 wall balls. Calorie row was easy to achieve (consistently finished the set with 10-15s to spare). Wall balls were harder. I'm a little beat up still (sore back + right hip joint weirdness), so I maintained 15 reps for 5 rounds then dipped to 12 for 2, 10 for 2, then 9 for the last. Comparing results to [6/7](https://github.com/ritcheyer/lifework/tree/master/exercise#67), I maintained, but did not gain (at least, according to the notes) anything on my previous time.
+
+### 9/18
 
 **10 min AMRAP:**
 
