@@ -1,6 +1,64 @@
 # 2017 WODs
 
+## October
+
+### 10/2
+
+**2 x 12 minute AMRAP:**
+```
+10 Cal Row or bike
+10 MedBall Squat Clean
+10 "See The Light" Sit-Up
+```
+
+2 minutes rest
+
+```
+5 Strict Pull-Up, or Ring Row
+15 DB Push Press
+30 Walking Lunge
+```
+**NOTES:**
+* Completed #1: 4 rounds + 5 calories rowed
+* Completed #2: 3 rounds + 5 pullups
+* Scaled strict pull-ups to jumping + negative pull-ups.
+* Used a 14lb Medicine ball as I still have some nagging lower back pain
+* `35lb` dumbbells for the pushpress
+
 ## September
+
+### 9/29
+
+today was 17.5 as a repeat:
+**10 Rounds for Time of:**
+```
+9 dumbbell thrusters
+35 double unders
+```
+
+**NOTES:**
+* **Total time:** `19:17` (compare times to: [6/16](#616) time of `17:15`, and 17.5 time of  `18:33`)
+* Started with `35lbs` dumbbells but scaled to `30lbs` halfway through.
+* Scaled Double Unders to Single Unders, same rep scheme (same as 17.5's scaled recommendation)
+
+### 9/27
+
+**4, 8, 12 min AMRAP*:**
+```
+15 Cal Row, or bike
+20 WallBall (20lb)
+15 Box Jump (24")
+20 KB Swing (53lb)
+15 Burpee
+20 Strict Pull-Up, or Ring Row (negative/jumping)
+15 DB Push Press (35lb)
+```
+*4 minutes Rest in-between rounds
+
+**NOTES:**
+* **AMRAP #1:** Completed all kb swings
+* **AMRAP #2:** Completed all burpees and 5 pull-ups
+* **AMRAP #3:** Completed entire AMRAP + 3 calories on row
 
 ### 9/20
 
@@ -1435,3 +1493,4 @@ Completed in `6` rounds of `25`, averaging `1:30` per round.
 **[T25 - Alpha Cardio](https://runkeeper.com/user/ritcheyer/activity/914640271)** - 25 mins
 
 **[Running](https://runkeeper.com/user/ritcheyer/activity/914647578)**: 1.17 miles in 14:45
+
