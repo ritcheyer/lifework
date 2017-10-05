@@ -2,6 +2,30 @@
 
 ## October
 
+### 10/4
+
+**For time (15 min cap):**
+
+```
+100 Wall balls
+Every Time you Rest, Run 200m
+```
+
+**For time (15 min cap):**
+```
+30-25-20-15-10-5
+Dubz (3:1 SUs)
+Russian KB Swing
+```
+
+**NOTES:**
+* **Set 1:** Used a `20lb` wall ball, and finished in `14:50`.
+  * This is a PR in that I used a heavier ball than the last time we did this on [7/10](https://github.com/ritcheyer/lifework/tree/master/exercise#710), when I used a `14lb` wall ball and finished in `13:57`.
+  * Rowed `200m` instead of running 200m as I am nursing a calf muscle sprain/strain.
+  * Sets were `20` / `13` / `12` / `15` / `15` / `10` / `8` / `7`
+* **Set 2:** Finished with 20s to spare.
+  * Instead of double unders (or `3:1` SUs, I biked `10 calories` for the same reason I did not run).
+
 ### 10/2
 
 **2 x 12 minute AMRAP:**
