@@ -2,6 +2,57 @@
 
 ## October
 
+### 10/9
+
+**3 x 7min AMRAPs @ 5-10-15-20-25...**
+
+```
+Dumbbell Thruster (20lbs)
+Calorie Row
+```
+
+1 minute rest
+
+```
+Russian KB Swing (35lbs)
+Ab-mat Sit-Up
+```
+
+1 minute rest
+
+```
+Air Squat
+Burpee
+Pull-Up (subbed for ring rows)
+```
+
+**NOTES:**
+* **AMRAP 1:** completed round of 20
+* **AMRAP 2:** completed round of 20 + 25 kettlebells & 3 sit-ups
+* **AMRAP 3:** completed round of 15
+
+### 10/6
+
+**For time (25min timecap):**
+
+```
+400M Row
+40 DB Push Press
+40 Burpee
+400M Farmer Carry
+
+200M Row
+20 DB Push Press
+20 Burpee
+200M Farmer Carry
+
+100M Row
+10 DB Push Press
+10 Burpee
+100M Farmer Carry
+```
+**NOTES:** completed 100m row before timecap. Completed full WOD in 29:11
+
 ### 10/4
 
 **For time (15 min cap):**
