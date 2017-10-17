@@ -2,6 +2,39 @@
 
 ## October
 
+### 10/16
+
+**2 12 min AMRAPs of:**
+
+```
+5 Ring Row, Or Strict Pull-Up
+10 Push-Up
+20 Russian KB Swing
+40 Dubz
+```
+
+```
+5 Burpee
+10 Box Jup
+20 WallBall
+40 Dubz
+```
+**NOTES:**
+ - Instead of double-unders (still have a calf strain), I biked 10 cals
+ - Completed 1 kb swing of round 4 on first AMRAP
+ - Completed 6 wallballs of round 3 on second AMRAP
+
+### 10/11
+
+**3 Rounds of ½ tabata at each station:**
+```
+Calorie Bike, or Row
+Push-Up
+Double KB Sumo Deadlift
+"See The Light" Sit-Up
+```
+*2 minutes rest in-between Rounds
+
 ### 10/9
 
 **3 x 7min AMRAPs @ 5-10-15-20-25...**
