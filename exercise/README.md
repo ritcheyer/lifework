@@ -2,6 +2,49 @@
 
 ## October
 
+### 10/25
+**Practice:** "Dead Bug” & Arch Rocks (i.e. Superman)
+
+**For Time (14 min cap):**
+```
+100 WallBalls
+```
+Every Break: Accumulate 1 Min Plank (i.e. if you can plank for 10s, then rest, you have 50s left)
+
+**14 minute AMRAP:**
+```
+7 DB Strict Press
+7 Ring Row, or Strict Pull-Up
+7 Push-Up
+14 Box Step-Up w/KB
+```
+
+**NOTES:**
+- 20lb Wallball - rounds:  `23-13-13-13-13-13-11`
+- 35lb double dumbbell used for strict press and step-up
+
+### 10/20
+**5 Rounds of 4 minute AMRAP:**
+```
+5 DB Squat Clean (Heavy)
+10 Push-Up
+15 Cal Row
+20 WallBall
+25 Abmat Sit-Up
+```
+2 Minutes Rest between rounds
+
+
+### 10/18
+**3 Rounds, 2 Minutes Each Station:**
+```
+Pull-Up
+Kettle Bell Swing
+MedBall Cleans
+DB Clean & Jerk
+Rest
+```
+
 ### 10/16
 
 **2 12 min AMRAPs of:**
