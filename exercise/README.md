@@ -2,7 +2,56 @@
 
 ## October
 
+### 10/30
+
+**Practice:**
+ * Squat Routine 2.0
+ * Skill: Deadlift Technique
+
+**20 min AMRAP:**
+```
+7 Dumbbell Thruster (Heavy)
+7 "See-The-Light" Sit-Up
+7 Sumo KB Deadlift (Heavy, Double or Single)
+7 Burpee
+7 Pull-Up (scaled to ring rows)
+7 Calorie Row
+```
+**NOTES:**
+ - Completed 5 complete rounds
+ - STL sit-ups w/a 10lb plate
+ - 53lb kettlebells x 2
+ - 30lb dumbbells
+
+### 10/27
+
+**For Time (28 min cap):**
+```
+800M Run
+30 KB SDHP
+30 DB Push Press
+30 Box Jump
+30 Toes-2-Bar
+30 MedBall Clean
+
+400M Run
+20 KB SDHP
+20 DB Push Press
+20 Box Jump
+20 Toes-2-Bar
+20 MedBall Clean
+
+200M Run
+10 KB SDHP
+10 DB Push Press
+10 Box Jump
+10 Toes-2-Bar
+10 MedBall Clean
+```
+**NOTES:** Time-capped at 10 of 20 t2b
+
 ### 10/25
+
 **Practice:** "Dead Bug” & Arch Rocks (i.e. Superman)
 
 **For Time (14 min cap):**
