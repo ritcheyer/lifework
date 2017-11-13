@@ -1,5 +1,51 @@
 # 2017 WODs
 
+## November
+
+### 11/13
+
+**4 Rounds of 4 minute AMRAP:**
+```
+30 Russian KB Swing
+20 Dumbbell Thruster
+10 Burpees
+```
+4min rest between rounds*
+*During rest, run either 200m or 400m (minimum of 2 400m runs)
+
+**NOTES:** Completed 3 rounds. 35lb kettlebell, 25lb dumbbells.
+
+### 11/8
+**10 Rounds, 30 Seconds at Each station:**
+```
+Calorie Row, or Bike
+Dumbbell Lunges
+Abmat Sit-Up
+Russian KB Swing
+Rest
+```
+
+\*5 seconds transition between stations
+
+**NOTES:** 25lb dumbbell; 53lb kettlebell
+
+### 11/3
+
+**Fight Gone Bad**
+
+```
+3 Rounds, 1 minute each station:
+WallBall
+KB Swing
+Box Jump
+DB Push Press
+Calorie Row, or Bike
+```
+
+
+
+### 11/1
+
 ## October
 
 ### 10/30
