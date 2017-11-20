@@ -2,6 +2,35 @@
 
 ## November
 
+### 11/20
+
+**Warmup:**
+```
+Skill: DB Push Press
+Mobility: Straight Leg Hamstring Stretch, Wall Baby Stretch
+Midline: 2 x 5 Bird-Dog, Tabatta: Side-Plank
+```
+
+**12-10-8-6-4-2 (12 minute cap):**
+```
+Dumbbell Hang Clean & Shoulder-2- Overhead
+Box Jump
+```
+
+—Then:
+
+**12 min AMRAP:**
+```
+12 Calorie Row
+12 Double KB Lunges
+```
+**NOTES:**
+
+* **AMRAP1:** 8:40
+* **AMRAP2:** 4 rounds + 1 cal row
+* 2x35lb dumbbells
+* 24” box (normally use 20” so, :grimacing:)
+
 ### 11/13
 
 **4 Rounds of 4 minute AMRAP:**
