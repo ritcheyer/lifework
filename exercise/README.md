@@ -2,6 +2,39 @@
 
 ## November
 
+### 11/22
+
+**3 Rounds for time of:**
+```
+20 KB American Swing
+30 Yard Sled Pull
+20 Burpees
+30 Yard Sled Pull
+```
+**Buyout**
+```
+50 Dumbbell Front Squats
+```
+**NOTES:**
+
+Completed in: `22:57` compare to my time on [8/16](https://github.com/ritcheyer/lifework/blob/master/exercise/README.md#816) of `22:30` with lighter weights and a slightly different buyout.
+
+1. `180 lbs` Sled weight
+2. `53 lbs` Kettlebells
+3. `2 x 25 lbs` Dumbbells
+
+### 11/21
+
+**30 min AMRAP of:**
+
+```
+400m run
+20 burpee box jump overs
+```
+**NOTE:** completed 4 rounds with 53s to spare
+
+
+
 ### 11/20
 
 **Warmup:**
