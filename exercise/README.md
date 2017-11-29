@@ -2,6 +2,44 @@
 
 ## November
 
+### 11/29
+**20 min AMRAP:**
+```
+400M Run / 500m row
+20 KB Swing (heavy-ish russian or lighter-ish american)
+10 Medball / SandBag Cleans
+```
+
+**NOTES:**
+1. Chose rowing
+2. Chose 53lb russian kb swing
+3. 2 rounds of 100lb sandbag cleans, 2 rounds of 25lb medball clean
+4. Completed 3 rounds + row on the 4th
+
+### 11/27
+
+**4 Rounds of:**
+
+**3 Min AMRAP:**
+```
+7 DB Thrusters
+7 Pull-Ups
+7 Burpees
+```
+1 Min Rest
+
+**3 Min AMRAP:**
+```
+Calorie Row
+```
+
+1 min Rest
+
+**NOTES:**
+1. Pick up with the rep you left off at.
+2. 25lb dumbbells
+3. Goal on the row is to hit the same number of cals with each row.
+
 ### 11/22
 
 **3 Rounds for time of:**
