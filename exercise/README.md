@@ -1,5 +1,25 @@
 # 2017 WODs
 
+## December
+
+### 12/1
+
+**30-20-10 (21 min timecap)**
+
+```
+Double unders
+Sumo single-kettlebell deadlift
+Push-ups
+Ring Row
+Abmat Sit-ups
+```
+**NOTES:**
+1. 79lb kettlebell
+2. Elevated push-ups
+3. Completed in 19ish mins
+
+
+
 ## November
 
 ### 11/29
