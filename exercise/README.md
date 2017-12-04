@@ -2,6 +2,24 @@
 
 ## December
 
+### 12/4
+
+**25 Min AMRAP of (max 6 rounds):**
+
+```
+20 Cal assault bike
+10 Pull-ups
+20 Wall balls
+10 Dips
+```
+
+**NOTES:**
+
+- Timecapped at 4 rounds + 14 cals on bike
+- 20lb wallball, broken up every 10
+- "Toenail" pullups
+- Dips with 1 foot on box
+
 ### 12/1
 
 **30-20-10 (21 min timecap)**
