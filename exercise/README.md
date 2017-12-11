@@ -2,6 +2,24 @@
 
 ## December
 
+### 12/11
+**32 Min AMRAP of:**
+```
+4 Ring Row
+8 KB Sumo Deadlift
+4 Single-Arm DB Push Press, Left
+8 DB OH Walking Lunge, Left
+4 Ring Row
+8 KB Sumo Deadlift
+4 Single-Arm DB Push Press, Right
+8 DB OH Walking Lunge, Right
+```
+**NOTES:** Completed 7 complete rounds using the following:
+1. 70lb kettlebell
+2. 45lb dumbbell
+
+There was a single set of walking lunges (both right and left) that I used a 35lb dumbbell, as I was unsure if my shoulder strength would manage the weight overhead. I ended up taking a bit of a longer break before the next set, and kept using the 45lb the rest of the time, just took it a little slower.
+
 ### 12/4
 
 **25 Min AMRAP of (max 6 rounds):**
