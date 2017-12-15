@@ -2,6 +2,42 @@
 
 ## December
 
+### 12/15
+**20min AMRAP:**
+```
+14 Pull-ups (scaled to jumping pull-ups)
+14 Dips
+35 Wallballs
+70 Dubs or 2 mins of dubs practice
+```
+**NOTES:** I was able to complete 2 full rounds + 20 wallballs. I had enough strength to get the wall ball up, but leg strength was weak.
+
+### 12/13
+
+**Skill: KB Turkish Get-Up**
+
+**10 Min AMRAP:**
+```
+2, 4, 6, 8, 10...[increase by 2]
+Plate Ground to Overhead
+Burpee to a Plate
+Ring Row
+```
+
+2 min rest
+
+**10 min AMRAP:**
+```
+6 Pull-Up
+8 Box Jump
+10 DB Push Press
+```
+
+**NOTES:** 
+1. Used 35lb dumbbells
+2. Used 45lb plate
+3. Alternated pull-ups and ring rows in the first AMRAP
+
 ### 12/11
 **32 Min AMRAP of:**
 ```
