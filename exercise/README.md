@@ -2,7 +2,30 @@
 
 ## January
 
+### 01/21
+**21-15-9:**
+```
+50lb Snatches
+Burpees over dumbell
+```
+**NOTES:** Completed in `9:31`
+
+### 01/20
+
+**For Time (22 Min Cap):**
+```
+20 Box Jump Over
+20 DB Push Press
+20 Goblet Squat
+20 DB Bent Over Row
+20 DB Lunges
+18 ...
+16 ...
+```
+**NOTES:** Completed box jump overs in round of 12
+
 ### 01/16
+
 **3 Rounds for time:**
 ```
 8 Wallballs @ 20lbs
