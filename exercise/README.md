@@ -2,6 +2,48 @@
 
 ## January
 
+### 1/26
+today’s WOD was a bit boring:
+**4x 4min AMRAP: (2 min rest between)**
+```
+5 DB Squat Clean @ 25lbs
+10 Push-Up
+15 Cal Row
+20 Abmat Sit-Up
+```
+
+**NOTES:** Was a little boring, but was able to complete 5 rounds. Wasn’t very … engaged today.
+
+### 1/24
+**3 Rounds, 90 Seconds Each Station:**
+```
+Pull-Up, or Ring Row (split time between jumping pull-ups and ring rows)
+Sandbag Clean @ 100lbs
+Row
+DB Snatch @ 35lbs
+Rest
+```
+
+### 1/22
+**2 x 12min AMRAP of:**
+```
+5 Ring Row, Or Strict Pull-Up
+10 Push-Up
+20 Russian KB Swing
+40 Dubz
+```
+3 min rest
+```
+5 Burpee
+10 Box Jump
+20 WallBall
+40 Dubz
+```
+**NOTES:**
+1. AMRAP1: Completed 2 rounds + 10s of double under practice
+2. AMRAP2: Completed 2 rounds + 2 Box Jumps
+
+
 ### 01/21
 **21-15-9:**
 ```
