@@ -2,7 +2,32 @@
 
 ## January
 
+### 1/29
+
+**Tabata, Alternating:**
+“Dead Bug” & Arch Rocks
+
+**For Time (14 min cap)**
+```
+100 WallBalls
+```
+Every Break: Accumulate 1 Min Plank
+
+**14 minute AMRAP:**
+```
+7 DB Strict Press @ 35lbs
+7 DB Bent Over Row @ 35lbs
+7 Push-Up (elevated on a 20" box
+14 Box Step-Up 20" box,  @ 2x35lbs
+```
+
+**NOTES:**
+* PR’ed 100 wallballs with `10:43`
+* Wallball @ 20lbs; rounds: `25-15-15-20-15-10`
+* This WOD was an absolute shoulder burner. I can barely use my arms right now.
+
 ### 1/26
+
 today’s WOD was a bit boring:
 **4x 4min AMRAP: (2 min rest between)**
 ```
@@ -193,4 +218,5 @@ Then:
  - 3 rounds of 6 reps for burpees, 5 reps for remainder
  - 1205m of rowing total (120.5m/round)
  - 12 russian kb swings @ 53lbs
+
 
