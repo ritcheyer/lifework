@@ -2,6 +2,19 @@
 
 ## January
 
+### 2/2
+
+### 1/31
+**20 minute EMOM:**
+```
+Russian KB Swing
+Calorie Row, or Bike
+Burpee
+Dumbbell Lunges
+```
+**After Party:**
+PR'ed: `345lb` Deadlift
+
 ### 1/29
 
 **Tabata, Alternating:**
