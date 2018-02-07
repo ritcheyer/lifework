@@ -1,10 +1,52 @@
 # 2018 WODs
 
-## January
+## February
+
+### 2/7
+**24 min AMRAP:**
+```
+10 Goblet Squat
+10 Side-Plank Reach Through (5 Each Side)
+10 Jumping Pull-Ups
+```
+Starting at 0, and every 3 minutes, run `260m`, or `15` cal bike, or `10` burpees
+
+**NOTES:**
+
+* 6 rounds completed
 
 ### 2/2
 
+**Rounds for time (28 min cap):**
+```
+800M Run
+30 KB SDHP
+30 DB Push Press
+30 Box Jump
+30 Toes-2-Bar
+30 MedBall Clean
+
+400M Run
+20 KB SDHP
+20 DB Push Press
+20 Box Jump
+20 Toes-2-Bar
+20 MedBall Clean
+
+200M Run
+10 KB SDHP
+10 DB Push Press
+10 Box Jump
+10 Toes-2-Bar
+10 MedBall Clean
+```
+**NOTES:**
+* Completed 200m Run (new PR)
+* Compare to [10/27](https://github.com/ritcheyer/lifework/blob/master/exercise/2017.md#1027) (completed 10 t2b), [7/14](https://github.com/ritcheyer/lifework/blob/master/exercise/2017.md#714) (completed 20 box jumps), and [4/21](https://github.com/ritcheyer/lifework/blob/master/exercise/2017.md#421)
+## January
+
 ### 1/31
+
 **20 minute EMOM:**
 ```
 Russian KB Swing
