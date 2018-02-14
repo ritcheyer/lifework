@@ -2,7 +2,38 @@
 
 ## February
 
+### 2/14
+
+**5 Rounds of "Double Tabata"** (40s on / 20s. off):
+
+```
+Calorie Row, or Bike
+Dumbbell Box Step-Up
+Abmat Sit-Up
+Russian KB Swing
+Rest
+```
+
+**NOTES:** no real notes here. just a burner of a WOD. Get it done.
+
+**After Party:** tried my hand at PRing another of the "Crossfit 5". I did a 150lb Strict Press. Rang dat bell.
+
+### 2/9
+
+“Fight Gone Bad”
+
+3 Rounds, 1 minute each station:
+WallBall
+KB Swing
+Box Jump
+DB Push Press
+Calorie Row, or Bike
+*Rest
+
+**NOTES:** 220 reps; not a PR, but square in the middle of my [PR of 242](https://github.com/ritcheyer/lifework/tree/master/exercise/2017.md#1227) and my previous [PR of 203](https://github.com/ritcheyer/lifework/tree/master/exercise/2017.md#43). I did find a really great approach after doing this one though. Rather than trying to burn through each round, pick a number of reps for each station - say 15 reps. Don't burn through your easiest round, but pace yourself well. example: `15reps x 5 movements x 3 rounds = 225 reps`. Next time you attempt FGB, do 16 reps per movement. Then 17. etc. 
+
 ### 2/7
+
 **24 min AMRAP:**
 ```
 10 Goblet Squat
