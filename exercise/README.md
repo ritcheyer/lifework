@@ -2,6 +2,19 @@
 
 ## February
 
+### 2/16
+
+**27-21-18-15-12-9-6-3 (25 min cap):**
+
+```
+DB Squat Cleans @ 25lbs
+Ring Row, Or Strict Pull-Up (scaled to jumping pull-ups)
+Push-Ups
+Toes-2-Bar (scaled to knee-to-elbows)
+```
+
+**NOTES:** Completed 10 pushups of round of 18. Lower than my PR from [5/5/17](https://github.com/ritcheyer/lifework/blob/master/exercise/2017.md#55) by 26 reps.
+
 ### 2/14
 
 **5 Rounds of "Double Tabata"** (40s on / 20s. off):
