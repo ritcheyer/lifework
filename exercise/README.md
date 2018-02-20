@@ -2,6 +2,21 @@
 
 ## February
 
+### 2/19
+
+**4 rounds of 4min AMRAP with 4min rest between rounds*:***
+```
+30 Russian KB Swing
+20 Dumbbell Thruster
+10 Burpees
+```
+\* Accumulate 1 minute plank in-between rounds.
+
+**NOTES:**
+* Completed 3 rounds + 5 reps. Shoulders are ded.
+* 53lb kb / 30lb db.
+* Bested my [previous PR](https://github.com/ritcheyer/lifework/blob/master/exercise/2017.md#1113) by 5 reps and bigger weights
+
 ### 2/16
 
 **27-21-18-15-12-9-6-3 (25 min cap):**
