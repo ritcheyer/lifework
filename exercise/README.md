@@ -2,6 +2,38 @@
 
 ## February
 
+### 2/21
+**Mobility:**
+```
+15 PVC Passthrough
+Pec Smash (2 min/side)
+15 PVC Passthrough
+Pec Stretch (2 min/side)
+15 PVC Passthrough
+```
+
+**5 Rounds (20min cap)** w/1min rest after each round:
+```
+10 Push-Up
+ 5 Pull-Up, or Ring Row
+10 Goblet Squat
+ 5 Pull-Up, or Ring Row
+10 Box Jump
+ 5 Pull-Up, or Ring Row
+10 Toes-2-Bar
+```
+**NOTES:**
+* Completed all 5 rounds in 21:12
+* **PR DAY:** See  [5/10/17](https://github.com/ritcheyer/lifework/blob/master/exercise/2017.md#510):
+  * Did jumping pull-ups instead of ring rows
+  * Completed entire WOD
+  * Kettlebell weight was heavier
+* Scaled push-ups to elevated push-ups
+* `44lb` kb for Goblet Squats
+* Scaled pull-ups to jumping pull-ups
+* Scaled box jump to step ups
+* Scaled toes-2-bar to knees-to-level
+
 ### 2/19
 
 **4 rounds of 4min AMRAP with 4min rest between rounds*:***
@@ -28,7 +60,7 @@ Push-Ups
 Toes-2-Bar (scaled to knee-to-elbows)
 ```
 
-**NOTES:** Completed 10 pushups of round of 18. Lower than my PR from [5/5/17](https://github.com/ritcheyer/lifework/blob/master/exercise/2017.md#55) by 26 reps.
+**NOTES:** Completed 10 push-ups of round of 18. Lower than my PR from [5/5/17](https://github.com/ritcheyer/lifework/blob/master/exercise/2017.md#55) by 26 reps.
 
 ### 2/14
 
@@ -58,7 +90,7 @@ DB Push Press
 Calorie Row, or Bike
 *Rest
 
-**NOTES:** 220 reps; not a PR, but square in the middle of my [PR of 242](https://github.com/ritcheyer/lifework/tree/master/exercise/2017.md#1227) and my previous [PR of 203](https://github.com/ritcheyer/lifework/tree/master/exercise/2017.md#43). I did find a really great approach after doing this one though. Rather than trying to burn through each round, pick a number of reps for each station - say 15 reps. Don't burn through your easiest round, but pace yourself well. example: `15reps x 5 movements x 3 rounds = 225 reps`. Next time you attempt FGB, do 16 reps per movement. Then 17. etc. 
+**NOTES:** 220 reps; not a PR, but square in the middle of my [PR of 242](https://github.com/ritcheyer/lifework/tree/master/exercise/2017.md#1227) and my previous [PR of 203](https://github.com/ritcheyer/lifework/tree/master/exercise/2017.md#43). I did find a really great approach after doing this one though. Rather than trying to burn through each round, pick a number of reps for each station - say 15 reps. Don't burn through your easiest round, but pace yourself well. example: `15reps x 5 movements x 3 rounds = 225 reps`. Next time you attempt FGB, do 16 reps per movement. Then 17. etc.
 
 ### 2/7
 
@@ -262,7 +294,7 @@ Partner WOD with @banderson623
 200m Wallball run
 50 kettlebell swings @ 53lbs
 200m Wallball run
-50 pushups
+50 push-ups
 200m Wallball run
 50 dips
 200m Wallball run
@@ -332,5 +364,3 @@ Then:
  - 3 rounds of 6 reps for burpees, 5 reps for remainder
  - 1205m of rowing total (120.5m/round)
  - 12 russian kb swings @ 53lbs
-
-
