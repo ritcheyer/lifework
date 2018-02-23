@@ -2,6 +2,18 @@
 
 ## February
 
+### 2/23
+
+**18.1 (scaled): 20 min AMRAP of**
+```
+8 knee raises
+10 dumbbell hang clean and jerk @ 35lbs
+14 calorie row
+```
+
+**NOTES:** Completed 310 reps. 10 reps shy of completing all of round 10.
+
+
 ### 2/21
 **Mobility:**
 ```
