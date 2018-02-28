@@ -2,6 +2,19 @@
 
 ## February
 
+### 2/28
+**20 min AMRAP:**
+```
+10 KB Deadlift
+10 DB Strict press
+10 DB Box Step-Up
+10 Toes-2-Bar
+```
+
+**NOTES**
+* Was 10 reps shy of 7 rounds.
+* My hands are shredded. Toes-2-Bar/Knee raises for 3 straight WODs and my calluses are shredded.
+
 ### 2/23
 
 **18.1 (scaled): 20 min AMRAP of**
