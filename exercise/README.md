@@ -30,12 +30,12 @@ DWU
 1000m row
 
 EMOM
-Battle rope
-Clean @ 135
-Devil press @ 2x35
-Bench @ 115
-Push-up
-Plank
+- Battle rope
+- Clean @ 135
+- Devil press @ 2x35
+- Bench @ 115
+- Push-up
+- Plank
 
 1000m row
 
