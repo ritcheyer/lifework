@@ -1,6 +1,13 @@
 # 2021 WODs
 
+**GOAL:**
+Complete 200 WODs in a calendar year.
+
 ## January
+
+Completed 16 WODs in the month of January. Did not track any of them in this document
+
+## February
 
 ### 02-01
 
@@ -35,10 +42,7 @@ Plank
 Repeat EMOM
 
 1000m row
-
 ```
-
-## February
 
 ## March
 
