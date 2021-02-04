@@ -26,6 +26,7 @@ DWU
 DWU
 
 **Workout**
+
 ```
 1000m row
 
@@ -42,6 +43,21 @@ EMOM
 Repeat EMOM
 
 1000m row
+```
+
+### 02-03
+
+2 rounds (bc of time):
+
+```
+complete unbroken
+5 strict press
+5 push press
+5 jerk press
+
+complete unbroken
+5 curl (each side)
+5 row
 ```
 
 ## March
