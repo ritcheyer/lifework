@@ -60,6 +60,31 @@ complete unbroken
 5 row
 ```
 
+### 02-04
+
+1 mile run
+DWU
+
+**Weightlifting**
+3 reps x 5 rounds of Hang Power Clean
+
+But 185 was my previous max. Hit that 3x
+FAILED at 205.
+
+**2 rounds**
+
+```
+10 burpees
+300m row sprint
+```
+
+**EMOM 8**
+
+```
+Kb swing
+Front squat @ 95 (edited)
+```
+
 ## March
 
 ## April
