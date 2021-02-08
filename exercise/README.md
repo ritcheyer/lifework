@@ -85,6 +85,37 @@ Kb swing
 Front squat @ 95 (edited)
 ```
 
+### 02-05
+
+**Warmup**
+1 mile run
+DWU
+
+20min AMRAP (Cindy)
+```
+5 pull-ups
+10 push-ups
+15 air squats
+```
+
+PR'ed at 8 rounds + 5 reps (previous was 7 rounds 11 reps)
+
+### 02-08
+
+**Warm up**
+1 mile run
+DWU
+
+**Workout:**
+For Time (or not):
+```
+40 Deadliftsj @ 135
+30 Back Squats @ 135
+20 Power Snatch @ 115
+10 OHS @ 115
+```
+
+
 ## March
 
 ## April
