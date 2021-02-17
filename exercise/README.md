@@ -5,6 +5,58 @@ Complete 200 WODs in a calendar year.
 
 ## February
 
+### 02-16
+
+```
+1 mile run
+DWU
+```
+
+**Weightlifting**
+
+```
+EMOM 10
+6 press
+```
+
+Completed as follows:
+
+- 3 rounds strict @ 135
+- 3 rounds strict @ 95
+- 4 rounds push press
+
+**5x2:00**
+
+```
+10 deadlift @ 115
+10 barbell row @ 115
+```
+
+### 02-12
+
+```
+1 mile run
+DWU
+```
+
+**Weightlifting**
+
+```
+5-5-5-3-1-1 Deadlift
+```
+
+**30mi Partner AMRAP**
+
+```
+5 Burpee DB Deadlift (35lbs)
+5 DB Hang Clean and Jerk
+5 Strict Pull ups
+```
+
+(one person does a full round, other resting)
+
+Every 5 minutes partners row 250m while the other jump ropes, then switch.
+
 ### 02-11
 
 bro-sesh (tbd)
