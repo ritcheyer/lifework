@@ -5,6 +5,30 @@ Complete 200 WODs in a calendar year.
 
 ## February
 
+### 02-18
+
+**Warmup**
+```
+Stretching
+```
+
+**Workout**
+
+**For Time:**
+
+```
+1k row
+50 Hand-release push-ups
+30 Deadlift (trap bar @ 225)
+50 Hand-release push-ups
+```
+
+### 02-17
+
+```
+1 mile walk with dog and kid
+```
+
 ### 02-16
 
 ```
