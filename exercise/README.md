@@ -3,7 +3,110 @@
 **GOAL:**
 Complete 200 WODs in a calendar year.
 
+## March
+
+### 03-04
+
+**Warmup**
+```
+1 mile run
+Stretching
+```
+
+**Workout**
+
+For Time:
+```
+1-2-3-4-5-6-7-8-9-10 of
+Deadlift @ 200#
+Bench press @ 135#
+Clean @ 115#
+```
+
+### 03-03
+
+**Warmup**
+```
+.75 mile run / .75 mile walk
+Stretching
+```
+
+**Workout**
+EMOM 10 rounds (1:15 each round)
+```
+2 squat snatch @ 115 + 10 air squat.
+```
+
+### 03-02
+
+**Warmup**
+```
+1.5 mile run
+Stretching
+```
+
+**Workout**
+
+```
+???
+```
+
+### 03-01
+
+1.75 mile run with kids and dog
+
 ## February
+
+### 02-27
+
+Warmup
+
+trail walk
+
+partner workout
+
+```
+150 burpees alternating
+```
+
+
+
+### 02-26
+
+Warmup
+
+trail walk
+
+partner workout
+
+3 rounds of:
+
+```
+Station 1: sandbag static hold
+Station 2: kettlebell swing, jump rope, battle rope, slam ball
+```
+
+While Partner A is at the static sandbag hold, Partner B is working at Station 2 for 30 seconds. When timing 
+
+### 02-25
+
+```
+"traditional strength training" (i don't remember what i did)
+```
+
+### 02-24
+
+```
+1 mile walk (kid and dog)
+```
+
+### 02-23
+
+1.6 mile run
+
+### 02-22
+
+1.56 mile run
 
 ### 02-18
 
