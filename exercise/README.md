@@ -5,6 +5,35 @@ Complete 200 WODs in a calendar year.
 
 ## March
 
+### 03-08
+
+**Warmup**
+
+```
+Stretching
+```
+
+**Strength**
+```
+5-5-5-3-3-1 Bench Press
+5 @ 135
+5 @ 185
+5 @ 205
+3 @ 215
+3 @ 225
+1 @ 235 failed
+```
+#prday 3 @ 225
+
+**Workout**
+
+```
+1 mile run
+2 km row
+1 mile run
+```
+
+
 ### 03-04
 
 **Warmup**
