@@ -5,6 +5,54 @@ Complete 200 WODs in a calendar year.
 
 ## March
 
+### 3-23
+
+**EMOM 30**
+```
+Dumbbell Bench Press @ 50lbs
+Push-ups
+Russian KB Swings @ 53lbs
+DB Front Squat @ 50lbs
+Plate G2OH @ 45lbs
+Rest 1
+```
+
+
+### 3-22
+
+**Warmup**
+```
+1 mile run
+Stretching / Dynamic Warmup
+```
+
+**EMOM 30**
+```
+10 cal sprint on the rower
+```
+
+### 03-19
+
+**21.2**
+
+**Time cap: 20 min**
+```
+10 dumbbell snatches
+15 burpee box jump-overs
+20 dumbbell snatches
+15 burpee box jump-overs
+30 dumbbell snatches
+15 burpee box jump-overs
+40 dumbbell snatches
+15 burpee box jump-overs
+50 dumbbell snatches
+15 burpee box jump-overs
+```
+
+50-lb. dumbbell, 24-in. box
+
+Completed 121 reps. Previous best was the scaled version of the same at 131 reps (35lbs + step overs)
+
 ### 03-10
 
 **21.1**
