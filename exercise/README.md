@@ -5,16 +5,110 @@ Complete 200 WODs in a calendar year.
 
 ## March
 
+### 3/30
+
+**Warmup**
+
+```
+20 cal bike
+Dynamic Warmup
+```
+
+**Weightlifting**
+```
+Work-up to 70-75 of your 1RM, then:
+5 x 5 Tempo Back Squats @ 1202
+
+1202:
+- 1 second down
+- 2 second hold at bottom
+- 0 = come up as fast as you can
+- 2 = Wait 2 seconds before starting the next rep
+```
+
+Completed 3 rounds: 135, 185, 205. Still have a sore/tight back from 3/28; didn't want to push it
+
+**Workout**
+
+```
+3 Rounds:
+- 400m Run
+- 25 V-ups
+- 15 DB Push Press @ 50lbs
+- 5 Devil Press @ 50lbs
+```
+
+Completed 2 rounds before dinner bell rang
+### 3/29
+
+**Warmup**
+```
+Dynamic Warmup
+```
+
+Elliott landed square on my lower back on 3/28, which made me extremely tight and sore. Opted for stretching instead of anything else
+
+#injuryday
+
+### 3-27
+
+**21.3**
+
+* 65 lbs. for the front squats and thrusters
+* Time cap: 15 min.
+
+```
+For total time:
+15 Front squats
+30 Knees-to-elbows
+15 Thrusters
+Then, rest 1 minute before continuing with:
+15 Front squats
+30 Chin-over-bar Pull-ups
+15 Thrusters
+Then, rest 1 minute before continuing with:
+15 Front squats 
+30 Chest-to-bar pull-ups
+15 Thrusters 
+```
+
+**Score:** Completed all thrusters from round 2
+
+**21.4**
+
+* Time begins immediately following the completion of 21.3.
+* Time cap: 7 min.
+
+Complete the following complex for max load:
+
+```
+1 deadlift
+1 clean
+1 hang clean
+1 jerk
+```
+
+**Score:** 185
+(Attempted 205 and failed)
+
+### 3-25
+
+softball game + light jog
+
+### 3-24
+
+**Warmup**
+
+2 mile run with dog
+
+something at Brians... i am scared
+
 ### 3-23
 
 **EMOM 30**
+
 ```
-Dumbbell Bench Press @ 50lbs
-Push-ups
-Russian KB Swings @ 53lbs
-DB Front Squat @ 50lbs
-Plate G2OH @ 45lbs
-Rest 1
+4 x Dumbbell Bench Press @ 50lbs
 ```
 
 
