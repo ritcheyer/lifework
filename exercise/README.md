@@ -3,6 +3,52 @@
 **GOAL:**
 Complete 200 WODs in a calendar year.
 
+## April
+
+### 04/13
+
+**Warmup**
+
+```
+1 mile run
+Dynamic warmup
+```
+
+**Workout A - The Pump**
+
+```
+Every 0:30 for 14 rounds:
+- Static HSPU Hold (0:03 = 1 rep)
+- Arnold Press
+
+Rest 5 mins
+
+3 Rounds:
+- 12 Single Arm DB Clean & Jerk (Alt.)
+- 10 Pull-ups
+- 8 Burpees
+```
+
+### 04/12
+
+**Warmup**
+```
+Dynamic Stretching
+```
+
+**Workout**
+```
+Warm-up your bench press to your opening weight, then:
+- 20 Reps @ 115
+- 15 Reps @ 135
+- 10 Reps @ 165
+- 5 Reps @ 185
+```
+
+* Start with your opening weight and add weight as necessary.
+* After each set 20/16 Calorie Row
+
+
 ## March
 
 ### 3/30
