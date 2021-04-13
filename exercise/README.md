@@ -14,7 +14,7 @@ Complete 200 WODs in a calendar year.
 Dynamic warmup
 ```
 
-**Workout A - The Pump**
+**Workout A**
 
 ```
 Every 0:30 for 14 rounds:
